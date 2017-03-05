@@ -12,20 +12,20 @@ rod_groove_p=[12,22,28];//
 rod_groove_array=3;
 rod_in_strap_space=2;//spacing between rod and the curve
 
-// Variables realted to strap holder
+// Variables related to strap holder
 strap_holder_w=50; // strap holder width
 strap_holder_t=1.5; //strap holder thickness
 strap_holder_l=90; //strap holder length
 holder_w=25; //curved holder width
 strap_w=40; //velcro strap width
 strap_t=3; //velcro strap groove thickness
-curve_sup_t=5; //groove support thichness
+curve_sup_t=2.5; //groove support thickness
 curve_t=4; //curve thickness
 
 groov_p_y=[6,15]; //y-position of strap grooves 
 
 groov_array_length=2;//length of grooves y-position array 
-curve_op=20;//curve upper openning window width 
+curve_op=20;//curve upper opening window width 
 
 // Useful calculations (Do not modify)
 groov_p_x=(strap_holder_w-strap_w)/2;
