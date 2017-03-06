@@ -7,8 +7,8 @@ rod_l=140; //rod length
 rod_g=5; //rod groove radius
 rod_res=8; //rod resolution
 
-rod_groove_l=[4,4,8];//
-rod_groove_p=[12,22,28];//
+rod_groove_l=[7,7,7];//
+rod_groove_p=[12,22,32];//
 rod_groove_array=3;
 rod_in_strap_space=2;//spacing between rod and the curve
 
