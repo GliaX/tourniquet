@@ -7,8 +7,9 @@ rad=2;//cylinders radiuses
 strap_w=25;//width of the strap in mm
 wall_t=3;//thickness of the side walls in mm
 $fn=50;
-length=17;//buckle length
+length=20;//buckle length
 angle=-45;//positioning the cylinders
+rear=4;//rear end bar thickness
 
 /////////////////////////////////////
 ///////////////////////////////////////
@@ -16,7 +17,7 @@ angle=-45;//positioning the cylinders
 rotate([0,angle,0])translate([length/2+wall_t,0,-rad])rotate([-90,0,0])cylinder(r=rad,h=strap_w+2*wall_t);//first cylinder to roll the strap"active"
 translate([length,0,2*rad])rotate([-90,0,0])cylinder(r=rad,h=strap_w+2*wall_t);//second cylinder it sew the other end of the strap
 
-    translate([1.5*length,0,0])cube([2,strap_w+2*wall_t,2]);//rear end of the bckle to hold the static strap end
+    translate([1.5*length,0,0])cube([rear,strap_w+2*wall_t,rear]);//rear end of the bckle to hold the static strap end
 difference(){//building the side walls
 hull(){//objects hulled together to make the shape of the wall
 rotate([0,angle,0])translate([length/2+wall_t,0,-rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
@@ -24,7 +25,7 @@ rotate([0,angle,0])translate([length/2+wall_t,0,-rad])rotate([-90,0,0])cylinder(
 translate([length,0,2*rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
 
 translate([-1,0,0])cube(wall_t);
-    translate([1.5*length,0,0])cube([2,wall_t,2]);
+    translate([1.5*length,0,0])cube([rear,wall_t,rear]);
 }
 translate([length/1.5,0,-length/1.5+wall_t])rotate([-90,0,0])cylinder(r=length/1.5,h=wall_t+.1);
 //the curcular cun in the bottom of the walls
@@ -42,7 +43,7 @@ translate([length,0,2*rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
 
 
 translate([-1,0,0])cube(wall_t);
-    translate([1.5*length,0,0])cube([2,wall_t,2]);
+    translate([1.5*length,0,0])cube([rear,wall_t,rear]);
 }
 translate([length/1.5,0,-length/1.5+wall_t])rotate([-90,0,0])cylinder(r=length/1.5,h=wall_t+.1);
 }
