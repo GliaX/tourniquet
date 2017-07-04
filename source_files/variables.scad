@@ -13,7 +13,7 @@ rod_groove_array=3;
 rod_in_strap_space=0;//spacing between rod and the curve
 
 // Variables related to strap holder
-strap_holder_w=50; // strap holder width
+strap_holder_w=40; // strap holder width
 strap_holder_t=1.5; //strap holder thickness
 strap_holder_l=90; //strap holder length
 holder_w=20; //curved holder width
