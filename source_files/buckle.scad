@@ -9,33 +9,45 @@ include <variables.scad>;
 
 buckle_h=5;//buckle hight
 buckle_l=30;//buckle length
-buckle_bt=2;
 tooth_l=4;//the triangular tooth length
+tooth_g=2;//gap between the teeth
 tooth_y_p=[7,13,23,29];//tooth y posisioning
+tooth_space=tooth_g+tooth_l;
+tooth_num=strap_w/tooth_space;
+module buk_clear1(){//the cut design generator
 
-module buk_clear(){//the cut design generator
+difference(){//the curvy slot
+    translate([0,0,(buckle_h/2)])rotate([-90,0,0])cylinder(r=(buckle_h/2)+strap_t,h=strap_w,$fn=50);//the cylinder
+    
+    
+    translate([0,0,-strap_t])cube([(buckle_h/2)+strap_t,strap_w,(buckle_h/2)+strap_t+(buckle_h/2)+strap_t*2]);
+
+   translate([0,0,(buckle_h/2)])rotate([-90,0,0])cylinder(r=(buckle_h/2),h=strap_w,$fn=50);//the cylinder
+
+} //end of the trisangles cut
+}
 
 
+
+
+
+
+
+module buk_clear2(){//the cut design generator
 
 difference(){//as shown before it is a cylinder with 4 triangular cuts
     translate([0,0,(buckle_h/2)])rotate([-90,0,0])cylinder(r=(buckle_h/2)+strap_t,h=strap_w,$fn=50);//the cylinder
     
     
     //the triangular cuts shifted in place
- //   translate([0,tooth_y_p[0],(buckle_h/2)])rotate([-90,0,0])rotate([0,0,60])cylinder(r=(buckle_h/2),h=tooth_l,$fn=3);
+    for(space=[0:1:tooth_num]){
     
-    
-  //  translate([0,tooth_y_p[1],(buckle_h/2)])rotate([-90,0,0])rotate([0,0,60])cylinder(r=(buckle_h/2),h=tooth_l,$fn=3);
-    
-    
-    //translate([0,tooth_y_p[2],(buckle_h/2)])rotate([-90,0,0])rotate([0,0,60])cylinder(r=(buckle_h/2),h=tooth_l,$fn=3);
-    
-    
-  //  translate([0,tooth_y_p[3],(buckle_h/2)])rotate([-90,0,0])rotate([0,0,60])cylinder(r=(buckle_h/2),h=tooth_l,$fn=3);
-    
+translate([0,tooth_space*space,(buckle_h/2)])difference(){
+rotate([-90,0,0])rotate([0,0,60])cylinder(r=(buckle_h/2),h=tooth_l,$fn=10);
+    translate([-buckle_h/2,0,0])cube([buckle_h,tooth_l,buckle_h/2]);
+}
+    }
     translate([0,0,-strap_t])cube([(buckle_h/2)+strap_t,strap_w,(buckle_h/2)+strap_t+(buckle_h/2)+strap_t*2]);
-
-    translate([0,0,(buckle_h/2)])rotate([-90,0,0])cylinder(r=(buckle_h/2),h=strap_w,$fn=50);//the cylinder
 
 } //end of the trisangles cut
 }
@@ -53,10 +65,16 @@ hull(){//this is the cube with soft edges done by "hull" between 4 spheres seper
 }
    
 
-   translate([buckle_l*.8,groov_p_x,0]) buk_clear();// first cut
-    translate([buckle_l*.2,groov_p_x,0]) mirror([1,0,0])buk_clear();//the other cut shifted and mirrored
+   translate([buckle_l*.8,groov_p_x,0]) buk_clear1();// first cut
+    translate([buckle_l*.2,groov_p_x,0]) mirror([1,0,0])buk_clear2();//the other cut shifted and mirrored
 }
 
 
 //buk_clear();
 
+/*
+difference(){
+translate([0,tooth_space*space,(buckle_h/2)])rotate([-90,0,0])rotate([0,0,60])cylinder(r=(buckle_h/2),h=tooth_l,$fn=10);
+    translate([-buckle_h/2,0,0])cube([buckle_h,tooth_l,buckle_h/2]);
+}
+*/
