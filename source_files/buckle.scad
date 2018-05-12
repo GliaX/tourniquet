@@ -1,55 +1,76 @@
-/*lock buckle is the same as the lock buckle you will find in bags laces
-this element could be used in the tourniquet to tighten the strap for the first time before the final tightening by the windlass
-will allow you pull the strap but will not go back whwn you let it
-
-*/
-rad=2;//cylinders radiuses
-strap_w=25;//width of the strap in mm
-wall_t=3;//thickness of the side walls in mm
-$fn=50;
-length=20;//buckle length
-angle=-45;//positioning the cylinders
-rear=4;//rear end bar thickness
-
-/////////////////////////////////////
-///////////////////////////////////////
-
-rotate([0,angle,0])translate([length/2+wall_t,0,-rad])rotate([-90,0,0])cylinder(r=rad,h=strap_w+2*wall_t);//first cylinder to roll the strap"active"
-translate([length,0,2*rad])rotate([-90,0,0])cylinder(r=rad,h=strap_w+2*wall_t);//second cylinder it sew the other end of the strap
-
-    translate([1.5*length,0,0])cube([rear,strap_w+2*wall_t,rear]);//rear end of the bckle to hold the static strap end
-difference(){//building the side walls
-hull(){//objects hulled together to make the shape of the wall
-rotate([0,angle,0])translate([length/2+wall_t,0,-rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
-
-translate([length,0,2*rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
-
-translate([-1,0,0])cube(wall_t);
-    translate([1.5*length,0,0])cube([rear,wall_t,rear]);
-}
-translate([length/1.5,0,-length/1.5+wall_t])rotate([-90,0,0])cylinder(r=length/1.5,h=wall_t+.1);
-//the curcular cun in the bottom of the walls
-}
-
-
-translate([0,strap_w+2*wall_t,0])//building the other wall "same but mirrored
-mirror([0,1,0])
-difference(){
+//buckle
+$fn=100;
+rad=28;
+tooth_t=1.3;
+tooth_w=4.5;
+module tooth(){
 hull(){
-rotate([0,angle,0])translate([length/2+wall_t,0,-rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
-
-translate([length,0,2*rad])rotate([-90,0,0])cylinder(r=2*rad,h=wall_t);
-
-
-
-translate([-1,0,0])cube(wall_t);
-    translate([1.5*length,0,0])cube([rear,wall_t,rear]);
+    translate([-.1,0,0])cube([.1,tooth_w,3]);
+    translate([-tooth_t,0,3])cube([tooth_t,tooth_w,.1]);
 }
-translate([length/1.5,0,-length/1.5+wall_t])rotate([-90,0,0])cylinder(r=length/1.5,h=wall_t+.1);
 }
 
-//bar
-difference(){//the front end of the buckle with angled cut to go with the strap
-translate([-1,0,0])cube([wall_t+1,strap_w+2*wall_t,wall_t]);
-    rotate([0,angle,0])translate([0,0,-wall_t])cube([2*wall_t,strap_w+2*wall_t,wall_t]);
+module itooth(){
+hull(){
+    translate([-.1,-tooth_w,0])cube([.1,tooth_w,3]);
+    translate([-tooth_t,-tooth_w,3])cube([tooth_t,tooth_w,.1]);
 }
+}
+
+difference(){
+union(){
+intersection(){
+translate([-15,0,3.5])cube([30,49,8-3.5]);
+translate([0,0,-rad+8])rotate([-90,0,0])cylinder(r=rad,h=49);
+}
+translate([-4,0,0])cube([8,49,7.6+1.5]);
+translate([-15,0,0])cube([30,49,3.5]);
+
+
+}//the body
+
+
+translate([2,5.5,0])rotate([-90,0,0])cylinder(r=4,h=38);//the cylindrical cut inside
+
+hull(){//the cut though upword for working side
+    translate([5.5,7.5,0])cylinder(r=3,h=10);
+    translate([5.5,49-7.5,0])cylinder(r=3,h=10);
+}
+
+
+
+
+hull(){//the ramp cut 
+    translate([15,5.5,0])cube([.1,38,.5]);
+    translate([8,5.5,0])cube([.1,38,3]);
+
+}
+
+
+hull(){//the cut though upword for fixed side
+    translate([-7,7.5,0])cylinder(r=3,h=10);
+    translate([-7,49-7.5,0])cylinder(r=3,h=10);
+}
+}
+
+//tooth
+translate([8.6,27,3.5])tooth();
+
+translate([8.6,27+1.5+4.5,3.5])tooth();
+
+translate([8.6,23,3.5])itooth();
+translate([8.6,23-1.5-4.5,3.5])itooth();
+
+
+            
+module signeture(){
+linear_extrude(height=2, convexity=4)
+                text("Glia   .Gaza", 
+                     size=5,
+                     font="Bitstream Vera Sans:style=Bold",
+                     halign="center",
+                     valign="center");
+    
+}
+//"Agency FB:style=Bold"
+translate([-.7,23,8])rotate([0,0,90])signeture();
