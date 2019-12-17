@@ -4,7 +4,7 @@ holder_t=25;        //anchor holder wthikness
 holder_wall_t=3;    //anchor holder wall thickness
 holder_support_t=1;
 top_window_w=20;
-
+$fn = $preview ? 12 : 72;
 
 strap_w=40;          //wide strap width
     //anchor holder width = wide strap width+20
