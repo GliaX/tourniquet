@@ -22,3 +22,6 @@ See the assembly instruction manuals in the following languages:
 * [Ukrainian]() (_Pending_)
 * [Russian]() (_Pending_)
 * [Romanian]() (_Pending_)
+
+## License
+See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as Creative Commons By Attribution ShareAlike if desired.
