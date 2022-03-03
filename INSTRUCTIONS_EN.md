@@ -3,7 +3,7 @@
 * White self-adhesive hook and loop tape [2 cm width] for the windlass strap.
 * Polyester cotton webbing strap [4 cm width] for the back face of the belt.
 * Nylon heavy webbing strap [2.5 cm width] for the internal belt.
-* Double cap rivet 
+* Double cap rivet
 * Polyester thread [0.75 mm thickness]
 * Cyanoacrylate glue (Super glue)
 * 3D-Printed components.
@@ -33,7 +33,7 @@
 
 4. Insert the internal belt between the front and back face. Sew the tip of the belt through all pieces so internal belt is anchored to both external belts. Continue sewing with zig-zag setting in an “X” pattern to cover the area 5 cm from the tip.
 
-5. Sew the front face of the belt to the back face. It is very important when sewing the two exterior faces together, that the internal belt remains free to move. 
+5. Sew the front face of the belt to the back face. It is very important when sewing the two exterior faces together, that the internal belt remains free to move.
 
 6. Drill two holes through the entire belt at the end of 15 cm hook piece to mount the 3d-printed backing support.
 
@@ -71,4 +71,4 @@
 ![Figure 10](assets/instructions/figure10.jpg)
 
 
-* Note: You can use one Omni tape instead of using separate parts of hook and loop. 
+* Note: You can use one Omni tape instead of using separate parts of hook and loop.
