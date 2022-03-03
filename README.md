@@ -5,7 +5,7 @@ While we are working very hard to prepare this tourniquet for clinical use, we d
 * Material: ABS
 * Layer Height: 0.2 mm
 * Infill: 100%
-* Bed temperature: 100 Cْ temp. at the first layer to avoid warping.
+* Bed temperature: 100°C temp at the first layer to avoid warping.
 
 * Supports: The buckle and rod need to be printed with support. Make sure there is no support on the holder part.
 * Vertical shells:
