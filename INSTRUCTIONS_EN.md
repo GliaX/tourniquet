@@ -13,8 +13,7 @@
 ![Polyester cotton webbing strap](assets/instructions/part3.jpg)
 ![Nylon heavy webbing strap](assets/instructions/part4.jpg)
 ![Double cap rivet](assets/instructions/part5.jpg)
-![[assets/instructions/part6.jpg|width=200px]]
-
+![Omni tape](assets/instructions/part6.jpg)
 
 # Assembly instructions
 1. Cut all the straps to the required length.
