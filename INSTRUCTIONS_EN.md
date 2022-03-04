@@ -28,13 +28,13 @@
 
 ![Figure 2](assets/instructions/figure2.jpg)
 
-3. Sew Velcro assembly to the piece of strap for the back face.  Sew both together along the full length of one side. Leave the other side and the ends open to insert the internal belt.
+3. Sew Velcro assembly to the piece of strap for the back face. Sew both together along the full length of one side. Leave the other side and the ends open to insert the internal belt.
 
-4. Sandwich the internal belt between the Velcro strap and back face. Bring the tip of all three pieces flush at one end.  Sew across width 3cm from end so internal belt is anchored to both external pieces. Sew an “X” pattern from the previous stitch at 3cm to a point at 5cm.
+4. Sandwich the internal belt between the Velcro strap and back face. Bring the tip of all three pieces flush at one end. Sew across width 3cm from end so internal belt is anchored to both external pieces. Sew an “X” pattern from the previous stitch at 3cm to a point at 5cm.
 
 5. Trim the tip to a rounded shape and sew the belt closed over the entire length. It is very important when sewing the two exterior faces together, that the internal belt remains free to move and is not caught along the side stitching.
 
-6. Drill or punch two holes through the entire belt assembly at the end of 15 cm Velcro piece to mount the 3d-printed backing plate.  Velcro strap will overlap onto backing plate by 15mm.  
+6. Drill or punch two holes through the entire belt assembly at the end of 15 cm Velcro piece to mount the 3d-printed backing plate. Velcro strap will overlap onto backing plate by 15mm.
 
 7. Use double cap rivet to fasten the backing plate to the belt through the two holes.
 
@@ -51,7 +51,7 @@
 
 10. With windlass in place, take up any slack in belt or strap.
 
-11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The buckle should sit approximately 3cm from edge of backing plate. Sew the strap together with a couple of passes.  Trim off any extra material.
+11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The buckle should sit approximately 3cm from edge of backing plate. Sew the strap together with a couple of passes. Trim off any extra material.
 
 ![Figure 7](assets/instructions/figure7.jpg)
 
@@ -65,7 +65,7 @@
 
 ![Figure 9](assets/instructions/figure9.jpg)
 
-15. Use super glue to fasten windlass strap on windlass clip. Hook piece will remain free to wrap over top.  Super glue intended for use on ABS.  
+15. Use super glue to fasten windlass strap on windlass clip. Hook piece will remain free to wrap over top. Super glue intended for use on ABS.
 
 ![Figure 10](assets/instructions/figure10.jpg)
 
