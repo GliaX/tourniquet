@@ -17,7 +17,7 @@
 
 # Assembly instructions
 1. Cut all the straps and hook and loop (Velcro) pieces to the required lengths.
- * Black hook and loop (Velcro) (Hook: 3 pieces 6 cm each & one piece 20 cm length, Loop: one piece 6 cm, two pieces 12.5 cm, one piece 19 cm)
+ * Black hook and loop (Velcro) (Hook: 3 pieces 6 cm each & one piece 15 cm length, Loop: one piece 6 cm, two pieces 12.5 cm, one piece 19 cm)
  * White Self-Adhesive Hook and Loop Tape (Hook: 20 cm, Loop: 20 cm) one piece for each.
  * Polyester Cotton Webbing Strap (one piece 97 cm).
  * Nylon Heavy Webbing Strap (one piece 97 cm).
