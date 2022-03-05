@@ -16,25 +16,25 @@
 ![Omni tape](assets/instructions/part6.jpg)
 
 # Assembly instructions
-1. Cut all the straps and Velcro pieces to the required length.
- * Black Velcro (Hook: 3 pieces 6 cm each & one piece 15 cm length, Loop: one piece 6 cm, two pieces 12.5 cm, one piece 19 cm)
- * White Self-Adhesive Hook and Loop Tape (Hook:15 cm, Loop: 15 cm) one piece for each.
+1. Cut all the straps and hook and loop (Velcro) pieces to the required lengths.
+ * Black hook and loop (Velcro) (Hook: 3 pieces 6 cm each & one piece 20 cm length, Loop: one piece 6 cm, two pieces 12.5 cm, one piece 19 cm)
+ * White Self-Adhesive Hook and Loop Tape (Hook: 20 cm, Loop: 20 cm) one piece for each.
  * Polyester Cotton Webbing Strap (one piece 97 cm).
  * Nylon Heavy Webbing Strap (one piece 97 cm).
 
 ![Figure 1](assets/instructions/figure1.jpg)
 
-2. For the front face of the belt, sew the Velcro pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes for increased tensile strength.
+2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes for increased tensile strength.
 
 ![Figure 2](assets/instructions/figure2.jpg)
 
-3. Sew Velcro assembly to the piece of strap for the back face. Sew both together along the full length of one side. Leave the other side and the ends open to insert the internal belt.
+3. Sew hook and loop (Velcro) assembly to the piece of strap for the back face. Sew both together along the full length of one side. Leave the other side and the ends open to insert the internal belt.
 
-4. Sandwich the internal belt between the Velcro strap and back face. Bring the tip of all three pieces flush at one end. Sew across width 3cm from end so internal belt is anchored to both external pieces. Sew an “X” pattern from the previous stitch at 3cm to a point at 5cm.
+4. Sandwich the internal belt between the hook and loop (Velcro) strap and back face. Bring the tip of all three pieces flush at one end. Sew across width 3cm from end so internal belt is anchored to both external pieces. Sew an “X” pattern from the previous stitch at 3cm to a point at 5cm.
 
 5. Trim the tip to a rounded shape and sew the belt closed over the entire length. It is very important when sewing the two exterior faces together, that the internal belt remains free to move and is not caught along the side stitching.
 
-6. Drill or punch two holes through the entire belt assembly at the end of 15 cm Velcro piece to mount the 3d-printed backing plate. Velcro strap will overlap onto backing plate by 15mm.
+6. Drill or punch two holes through the entire belt assembly at the end of 15 cm hook and loop (Velcro) piece to mount the 3d-printed backing plate. Hook and loop (Velcro) strap will overlap onto backing plate by 15mm.
 
 7. Use double cap rivet to fasten the backing plate to the belt through the two holes.
 
@@ -70,4 +70,4 @@
 ![Figure 10](assets/instructions/figure10.jpg)
 
 
-* Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop Velcro.
+* Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
