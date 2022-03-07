@@ -8,12 +8,12 @@
 * Klej cyjanoakrylowy (typu „Kropelka” lub „Super glue”)
 * Elementy wydrukowane w drukarce 3D
 
-![Black self-adhesive hook and loop tape](assets/instructions/part1.jpg)
-![White self-adhesive hook and loop tape](assets/instructions/part2.jpg)
-![Polyester cotton webbing strap](assets/instructions/part3.jpg)
-![Nylon heavy webbing strap](assets/instructions/part4.jpg)
-![Double cap rivet](assets/instructions/part5.jpg)
-![Omni tape](assets/instructions/part6.jpg)
+![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)
+![White self-adhesive hook and loop tape](../assets/instructions/part2.jpg)
+![Polyester cotton webbing strap](../assets/instructions/part3.jpg)
+![Nylon heavy webbing strap](../assets/instructions/part4.jpg)
+![Double cap rivet](../assets/instructions/part5.jpg)
+![Omni tape](../assets/instructions/part6.jpg)
 
 # Instrukcja składania:
 1. Przytnij wszystkie paski i taśmy rzepowe do wymaganej długości
@@ -22,11 +22,11 @@
  * Z poliestrowo-bawełnianego pasa parcianego utnij jeden fragment o długość 97cm
  * Z nylonowego pasa parcianego utnij jeden fragment o długość 97cm
 
-![Figure 1](assets/instructions/figure1.jpg)
+![Figure 1](../assets/instructions/figure1.jpg)
 
 2. Dla przedniej części paska, zszywaj ze sobą po kolei przygotowane fragmenty paska rzepowego według podanej kolejności (fragment strony miękkiej o długości 6cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 12,5cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 12,5cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 19cm, fragment strony twardej o długości 15cm). Każdy z fragmentów zszywaj nakładając je na siebie, tworząc zakładkę o długości 5mm. Szyj w poprzek każdej zakładki tworząc dwa szwy, aby zwiększyć wytrzymałość paska na rozciąganie.
 
-![Figure 2](assets/instructions/figure2.jpg)
+![Figure 2](../assets/instructions/figure2.jpg)
 
 3. Przygotowany w ten sposób pasek rzepowy połącz z poliestrowo-bawełnianym pasem parcianym, przeznaczonym na tylną część pasa. Zszyj je ze sobą po jednej stronie na całej jej długości. Drugą stronę pasa pozostaw niezszytą, tak, aby możliwe było włożenie do niego wewnętrznej części pasa.
 
@@ -38,36 +38,36 @@
 
 7. Użyj dwustronnych nitów kaletniczych aby przymocować wspornik do paska poprzez przygotowane dwa otwory.
 
-![Figure 3](assets/instructions/figure3.jpg)
-![Figure 4](assets/instructions/figure4.jpg)
+![Figure 3](../assets/instructions/figure3.jpg)
+![Figure 4](../assets/instructions/figure4.jpg)
 
 8. Włóż zszytą końcówkę paska poprzez szczelinę w wydrukowanym w drukarce 3D klipsie aż dotrze ona do wspornika. Weź pod uwagę, aby zamknięta część klipsa była zwrócona w kierunku wspornika.
 
-![Figure 5](assets/instructions/figure5.jpg)
+![Figure 5](../assets/instructions/figure5.jpg)
 
 9. Przełóż wewnętrzny pasek przez otwór w wydrukowanym w drukarce 3D drążku wyciągarki a następnie poprzez otwór we wsporniku i przeciągnij wzdłuż drugiego paska.
 
-![Figure 6](assets/instructions/figure6.jpg)
+![Figure 6](../assets/instructions/figure6.jpg)
 
 10. Gdy drążek wyciągarki został umieszczony, załóż względem niego pewien luz paska.
 
 11. Aby włożyć wolny koniec paska poprzez bezzębną szczelinę w wydrukowanej w drukarce 3D klamrze, włóż ją skierowaną ku górze poprzez szczelinę, a następnie złóż na siebie. Klamra powinna znajdować się około 3cm od krawędzi wspornika. Następnie, zszyj pasek kilkoma szwami. Dalej, utnij wszelki wystający niepotrzebny materiał.
 
-![Figure 7](assets/instructions/figure7.jpg)
+![Figure 7](../assets/instructions/figure7.jpg)
 
 12. Usuń wszelkie dodatkowe nici, aby wyczyścić krawędzie.
 
 13. Upewnij się, że zaokrąglony koniec paska jest zaszyty.
 
-![Figure 8](assets/instructions/figure8.jpg)
+![Figure 8](../assets/instructions/figure8.jpg)
 
 14. Zszyj koniec twardej strony (tzw. haczyków) białego paska rzepowego w centralnym punkcie miękkiej strony (tzw. pętelek) białego paska rzepowego, aby zrobić pasek dla klipsa wyciągarki.
 
-![Figure 9](assets/instructions/figure9.jpg)
+![Figure 9](../assets/instructions/figure9.jpg)
 
 15. Użyj kleju (typu „Super Glue” lub typu „Kropelka”), aby przymocować utworzony biały pasek do klipsa wyciągarki. Kawałek twardej strony (tzw. haczyków) powinien pozostać swobodny, by móc być owiniętym na wierzchu. Klej typu „Super Glue” przeznaczony jest do klejenia elementów wydrukowanych na podstawie tworzyw ABS.
 
-![Figure 10](assets/instructions/figure10.jpg)
+![Figure 10](../assets/instructions/figure10.jpg)
 
 
 * Uwaga: Dysponując taśmą typu „Omni tape” (czyli taką, która łączy w sobie część przyczepną – tj. haczyki z częścią miękką – tj. pętelki), możesz użyć jednego fragmentu takiej taśmy na całej długości paska, zamiast stosowania oddzielnych fragmentów taśmy rzepowej.

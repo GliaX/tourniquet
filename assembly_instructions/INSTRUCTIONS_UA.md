@@ -10,12 +10,12 @@
 
 Примітка. Замість окремих шматочків липучки можна використовувати один шматок самоклеючої стрічки.
 
-![Black self-adhesive hook and loop tape](assets/instructions/part1.jpg)
-![White self-adhesive hook and loop tape](assets/instructions/part2.jpg)
-![Polyester cotton webbing strap](assets/instructions/part3.jpg)
-![Nylon heavy webbing strap](assets/instructions/part4.jpg)
-![Double cap rivet](assets/instructions/part5.jpg)
-![Omni tape](assets/instructions/part6.jpg)
+![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)
+![White self-adhesive hook and loop tape](../assets/instructions/part2.jpg)
+![Polyester cotton webbing strap](../assets/instructions/part3.jpg)
+![Nylon heavy webbing strap](../assets/instructions/part4.jpg)
+![Double cap rivet](../assets/instructions/part5.jpg)
+![Omni tape](../assets/instructions/part6.jpg)
 
 # Дії зі збирання
 Відріжте ремені необхідної довжини, а саме:
@@ -24,11 +24,11 @@
  * Ремінь з бавовни та поліестеру (одна деталь довжиною 97 см)
  * Товста нейлонова лямка (одна частина довжиною 97 см)
 
-![Figure 1](assets/instructions/figure1.jpg)
+![Figure 1](../assets/instructions/figure1.jpg)
 
 2. Щоб сформувати передню частину пояса, пришийте підготовлені вами чорні стрічки (липучки) один до одного в наступній послідовності [ 6 см тонка, 6 см груба, 12,5 см тонка, 6 см груба, 12,5 см гладка, 6 см груба, 19 см тонка, 15 см груба]. Прошейте кожен сполучний шов двома проходами для збільшення міцності на розрив.
 
-![Figure 2](assets/instructions/figure2.jpg)
+![Figure 2](../assets/instructions/figure2.jpg)
 
 3. Зшийте перед поясом з виворотом тільки з одного боку, залиште інший бік відкритим, щоб вставити внутрішній пояс.
 
@@ -40,33 +40,33 @@
 
 7. Використовуйте заклепку, щоб закріпити опорний кронштейн із ременем через отвори.
 
-![Figure 3](assets/instructions/figure3.jpg)
-![Figure 4](assets/instructions/figure4.jpg)
+![Figure 3](../assets/instructions/figure3.jpg)
+![Figure 4](../assets/instructions/figure4.jpg)
 
 8. Вставте ремінь через отвори пряжки, поки він не досягне опорної пластини, зважаючи на те, що широка відкрита область пряжки знаходиться ближче до кінця ременя, як показано на малюнку.
 
-![Figure 5](assets/instructions/figure5.jpg)
+![Figure 5](../assets/instructions/figure5.jpg)
 
 9. Вставте внутрішній ремінець через отвір для палиці. Потім вставте ремені через проріз опорного кронштейна.
 
-![Figure 6](assets/instructions/figure6.jpg)
+![Figure 6](../assets/instructions/figure6.jpg)
 
 10. Потягніть стрижень у бік пряжки, щоб зберегти додаткову довжину внутрішнього ременя в цій області, оскільки це необхідно в процесі затягування.
 
 11. Пропустіть верхні кінці ременя через беззубчастий отвір пряжки, загніть вгору і знову пришийте ще й ременя. Повторіть процес шиття кілька разів.
 
-![Figure 7](assets/instructions/figure7.jpg)
+![Figure 7](../assets/instructions/figure7.jpg)
 
 12. Видаліть усі зайві нитки.
 
 13. Обріжте край ременя овальної форми. Прогладьте кінець ременя, щоб його було легко вставити в пряжку.
 
-![Figure 8](assets/instructions/figure8.jpg)
+![Figure 8](../assets/instructions/figure8.jpg)
 
 14. SПришийте білу грубу самоклеючу стрічку-липучку до центру тонкої стрічки, щоб вийшов ремінець із пряжкою. Зверніть увагу, що час початку вказано за допомогою ремінця для зупинки кровотечі на цьому ремінці.
 
-![Figure 9](assets/instructions/figure9.jpg)
+![Figure 9](../assets/instructions/figure9.jpg)
 
 15. Прикріпіть пряжку ременя до пряжки суперклеєм.
 
-![Figure 10](assets/instructions/figure10.jpg)
+![Figure 10](../assets/instructions/figure10.jpg)

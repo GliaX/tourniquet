@@ -7,12 +7,12 @@
 * ‏خيوط بوليستر [سماكة 0.75 ملم ] للخياطة أجزاء الحزام.
 * ‏غراء قوي.
 
-![](assets/instructions/part1.jpg)
-![](assets/instructions/part2.jpg)
-![](assets/instructions/part3.jpg)
-![](assets/instructions/part4.jpg)
-![](assets/instructions/part5.jpg)
-![](assets/instructions/part6.jpg)
+![](../assets/instructions/part1.jpg)
+![](../assets/instructions/part2.jpg)
+![](../assets/instructions/part3.jpg)
+![](../assets/instructions/part4.jpg)
+![](../assets/instructions/part5.jpg)
+![](../assets/instructions/part6.jpg)
 
  
 * ملاحظة: يمكن استخدام قطعة واحدة من شريط اللصق الذاتي (Omni tape) بدلاً من استخدام أجزاء منفصلة من شريط فلكرو
@@ -24,12 +24,12 @@
  * حزام من القطن والبوليستر (قطعة واحدة بطول 97 سم).
  * حزام سميك من النايلون (قطعة واحدة بطول 97 سم).
 
-![Figure 1](assets/instructions/figure1.jpg)
+![Figure 1](../assets/instructions/figure1.jpg)
 
 2. لتشكيل الجزء الأمامي من الحزام، قم بخياطة أشرطة اللصق الذاتي (فلكرو) السوداء التي أعدتها مع بعضها البعض بالتسلسل التالي[ 6 سم ناعم، 6 سم خشن، 12.5 سم ناعم، 6 سم خشن، 12.5 سم ناعم، 6 سم خشن، 19 سم ناعم، 15 سم خشن ].
 مع الأخذ بالحسبان ضرورة تكرار عملية الخياطة لتقوية الحزام وتكون عملية دمج القطع ببعضها من خلال جعل طرف كل قطعة فوق طرف القطعة التي تليها لتسهيل عملية شد الحزام.
 
-![Figure 2](assets/instructions/figure2.jpg)
+![Figure 2](../assets/instructions/figure2.jpg)
 
 3. قم بخياطة الجزء الأمامي من الحزام مع الجزء الخلفي من جانب واحد فقط، اترك الجانب الآخر مفتوحاً لإدخال الحزام الداخلي.
 
@@ -41,35 +41,34 @@
 
 7.  استخدم البرشام لتثبيت الشريحة الداعمة مع الحزام من خلال الثقوب.
 
-![Figure 3](assets/instructions/figure3.jpg)
-![Figure 4](assets/instructions/figure4.jpg)
+![Figure 3](../assets/instructions/figure3.jpg)
+![Figure 4](../assets/instructions/figure4.jpg)
 
 8.  قم بإدخال الحزام عبر فتحات المشبك حتى يصل الى الشريحة الداعمة، مع الأخذ بالحسبان أن تكون المنطقة المفتوحة الواسعة من المشبك باتجاه طرف الحزام كما هو موضح.
 
-![Figure 5](assets/instructions/figure5.jpg)
+![Figure 5](../assets/instructions/figure5.jpg)
 
 9. قم بإدخال الحزام الداخلي عبر فتحة العصا. بعد ذلك أدخل الأحزمة عبر فتحة الشريحة الداعمة.
 
-![Figure 6](assets/instructions/figure6.jpg)
+![Figure 6](../assets/instructions/figure6.jpg)
 
 10. اسحب العصا باتجاه المشبك لكي تحافظ على طول إضافي من الحزام الداخلي في هذه المنطقة حيث انها ضرورية في عملية الشد.
 
 11. .قم بتمرير الأطراف العلوية للحزام من خلال فتحة الابزيم الخالية من الأسنان، ثم قم بثنيها نحو الأعلى وأعد تخييطها بالحزام نفسه. كرر عملية الخياطة أكثر من مرة.
 
-![Figure 7](assets/instructions/figure7.jpg)
+![Figure 7](../assets/instructions/figure7.jpg)
 
 12. قم بإزالة أي خيوط زائدة.
 
 13. قص طرف الحزام بشكل بيضاوي. قم بكي طرف الحزام ليسهل إدخاله عبر الإبزيم.
 
-![Figure 8](assets/instructions/figure8.jpg)
+![Figure 8](../assets/instructions/figure8.jpg)
 
-14. قم بخياطة شريط اللصق الذاتي (فلكرو) الأبيض الخشن في منتصف الشريط الناعم لتشكل 
+14. قم بخياطة شريط اللصق الذاتي (فلكرو) الأبيض الخشن في منتصف الشريط الناعم لتشكل
 حزام المشبك. مع العلم أنه يتم تدوين وقت البدء باستخدام حزام وقف النزيف على هذا الشريط.
 
-![Figure 9](assets/instructions/figure9.jpg)
+![Figure 9](../assets/instructions/figure9.jpg)
 
 15. قم بتثبيت حزام المشبك على المشبك باستخدام غراء قوي.
 
-![Figure 10](assets/instructions/figure10.jpg)
-
+![Figure 10](../assets/instructions/figure10.jpg)
