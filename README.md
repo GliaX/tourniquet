@@ -17,11 +17,15 @@ Print the 3MF file, modified to your needs.
 
 ## Assembly Instructions
 See the assembly instruction manuals in the following languages:
-* [Arabic](INSTRUCTIONS_AR.md)
-* [English](INSTRUCTIONS_EN.md)
-* [Ukrainian]() (_Pending_)
-* [Russian]() (_Pending_)
-* [Romanian]() (_Pending_)
+* [Arabic](assembly_instructions/INSTRUCTIONS_AR.md)
+* [English](assembly_instructions/INSTRUCTIONS_EN.md)
+* [Ukrainian](assembly_instructions/INSTRUCTIONS_UA.md)
+* [Polish](assembly_instructions/INSTRUCTIONS_PL.md)
+* [French](assembly_instructions/INSTRUCTIONS_FR.md)
+
+Pending:
+* [Romanian](assembly_instructions/INSTRUCTIONS_RO.md) (_Pending_)
+* [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
 
 ## License
 See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as Creative Commons By Attribution ShareAlike if desired.
