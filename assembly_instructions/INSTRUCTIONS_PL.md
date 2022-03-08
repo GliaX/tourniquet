@@ -1,7 +1,7 @@
 # Lista potrzebnych materiałów:
-* Czarna taśma rzepowa (o szerokości 4cm) przeznaczona na przednią część paska
+* Czarna taśma rzepowa (o szerokości 3,5-3,85cm) przeznaczona na przednią część paska
 * Biała taśma rzepowa (o szerokości 2cm) przeznaczona na pasek do wyciągarki
-* Poliestrowo-bawełniany pas parciany (o szerokości 4cm) przeznaczony na tylną część paska
+* Poliestrowo-bawełniany pas parciany (o szerokości 3,5-3,85cm) przeznaczony na tylną część paska
 * Nylonowy, wytrzymały i nierozciągliwy pas parciany (o szerokości 2,5cm) przeznaczony do wewnętrznej części paska
 * Dwustronne nity kaletnicze 7mm
 * Nić poliestrowa (o grubości 0,75mm)

@@ -1,7 +1,7 @@
 # Nomenclature des matériaux
-* Bande auto-agrippante noire (Velcro) [largeur 4 cm] pour la face avant de la ceinture.
-* Bande auto-agrippante blanche (Velcro) [largeur 2 cm] pour la sangle du clip du guindeau.
-* Sangle en toile de coton polyester [largeur 4 cm] pour la face arrière de la ceinture.
+* Bande auto-agrippante noire (Velcro) [largeur 3,5-3,85 cm] pour la face avant de la ceinture.
+* Bande auto-agrippante blanche (Velcro) [largeur 3,5-3,85 cm] pour la sangle du clip du guindeau.
+* Sangle en toile de coton polyester [largeur 3,5-3,85 cm] pour la face arrière de la ceinture.
 * Sangle en nylon résistant non extensible [largeur de 2,5 cm] pour la ceinture interne.
 * Rivets avec double bouchon 7mm tête.
 * Fil polyester [épaisseur 0,75 mm].

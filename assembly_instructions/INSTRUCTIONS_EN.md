@@ -1,7 +1,7 @@
 # Bill of materials
-* Black hook and loop tape (Velcro) [4 cm width] for the front face of the belt.
+* Black hook and loop tape (Velcro) [3.5-3.85 cm width] for the front face of the belt.
 * White hook and loop tape (Velcro) [2 cm width] for the windlass clip strap.
-* Polyester cotton webbing strap [4 cm width] for the back face of the belt.
+* Polyester cotton webbing strap [3.5-3.85 cm width] for the back face of the belt.
 * Nylon heavy-duty non-stretch webbing strap [2.5 cm width] for the internal belt.
 * Double cap rivets 7mm head
 * Polyester thread [0.75 mm thickness]
