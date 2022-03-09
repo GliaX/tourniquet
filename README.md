@@ -29,5 +29,8 @@ Pending:
 * [Romanian](assembly_instructions/INSTRUCTIONS_RO.md) (_Pending_)
 * [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
 
+## Injection molding - WARNING
+We have presented injection molding files in the [`injection_molding`](injection_molding) folder. The injection molded tourniquet has not yet been deployed and is in the process of being tested at this time.
+
 ## License
 See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as Creative Commons By Attribution ShareAlike if desired.
