@@ -1,6 +1,10 @@
 # EXERCISE CAUTION WITH CLINICAL USE Tourniquet
 While we are working very hard to prepare this tourniquet for clinical use, we do not consider it ready yet. Please do not deploy this unless you are in a crisis situation and know exactly what you are doing. 3D printed tourniquet to stop bleeding, especially related to penetrating injuries
 
+## Contact
+Contact person: Tarek Loubani <tarek@tarek.org> or Glia <info@glia.org>
+Repository manager: Tarek Loubani
+
 ## Print settings
 Print the 3MF file, modified to your needs.
 
