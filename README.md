@@ -3,6 +3,10 @@ While we are working very hard to prepare this tourniquet for clinical use, we d
 
 This tourniquet is in use [in Gaza](https://trklou.medium.com/3d-printed-open-source-tourniquet-rationale-failure-analysis-and-proposed-next-steps-of-the-glia-97e8441b4c5a) and is being produced for [emergency use in the Ukrainian-Russian War](https://trklou.medium.com/glias-gaza-tourniquet-is-ready-for-emergency-use-in-ukraine-make-some-if-you-can-ef5f83260b7c).
 
+## Contact
+Contact person: Tarek Loubani <tarek@tarek.org> or Glia <info@glia.org>
+Repository manager: Tarek Loubani
+
 ## Print settings
 Print the 3MF file, modified to your needs.
 
