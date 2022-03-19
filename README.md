@@ -33,6 +33,12 @@ Pending:
 * [Romanian](assembly_instructions/INSTRUCTIONS_RO.md) (_Pending_)
 * [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
 
+## Tourniquet staging and folding Instructions
+There are several reasonable techniques for staging a CAT-style tourniquet. At Glia, we use and recommend the following technique, which is in use in Gaza: https://www.youtube.com/watch?v=CSECJQPJmLw
+
+## Packaging Instructions
+The tourniquet should be packaged in clear, thin plastic such as PVC wrap to prevent any degradation from humidity or other environmental factors. This wrap should be easy to remove with bare hands and no tools.
+
 ## Injection molding - WARNING
 We have presented injection molding files in the [`injection_molding`](injection_molding) folder. The injection molded tourniquet has not yet been deployed and is in the process of being tested at this time. Follow best practices for injection molding and assemble parts as above.
 
