@@ -30,7 +30,6 @@ See the assembly instruction manuals in the following languages:
 * [French](assembly_instructions/INSTRUCTIONS_FR.md)
 
 Pending:
-* [Romanian](assembly_instructions/INSTRUCTIONS_RO.md) (_Pending_)
 * [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
 
 ## Tourniquet staging and folding Instructions
