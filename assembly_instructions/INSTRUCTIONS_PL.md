@@ -49,7 +49,7 @@
 
 ![Figure 6](../assets/instructions/figure6.jpg)
 
-10. Gdy drążek wyciągarki został umieszczony, załóż względem niego pewien luz paska.
+10. Gdy drążek wyciągarki został nawleczony na wewnętrzny pasek, napnij pasek. Wewnętrzny pasek powinien być maksymalnie naprężony.
 
 11. Aby włożyć wolny koniec paska poprzez bezzębną szczelinę w wydrukowanej w drukarce 3D klamrze, włóż ją skierowaną ku górze poprzez szczelinę, a następnie złóż na siebie. Klamra powinna znajdować się około 3cm od krawędzi wspornika. Następnie, zszyj pasek kilkoma szwami. Dalej, utnij wszelki wystający niepotrzebny materiał.
 
