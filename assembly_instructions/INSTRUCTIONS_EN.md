@@ -24,7 +24,7 @@
 
 ![Figure 1](../assets/instructions/figure1.jpg)
 
-2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes for increased tensile strength.
+2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes, second time use a zig-zag stich to flatten the overlap. That technique can improve how the whole belt slides through the buckle.
 
 ![Figure 2](../assets/instructions/figure2.jpg)
 
