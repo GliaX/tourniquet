@@ -5,7 +5,7 @@
 * Nylon heavy-duty non-stretch webbing strap [2.5 cm width, ~1.3 mm thickness] for the internal belt.
 * Double cap rivets 7mm head
 * Polyester thread [0.75 mm thickness]
-* Cyanoacrylate glue (Super glue)
+* Cyanoacrylate glue (Super glue) for ABS or two-part epoxy glue for PETG
 * 3D-Printed components.
 
 ![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)
