@@ -71,3 +71,5 @@
 
 
 * Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
+# Troubleshooting
+1. If you find it hard to sew the velcro tapes together, you can first stick them onto a long piece of masking tape, then sew, then rip off the masking tape.
