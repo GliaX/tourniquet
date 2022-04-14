@@ -1,11 +1,11 @@
 # Bill of materials
 * Black hook and loop tape (Velcro) [3.5-3.85 cm width] for the front face of the belt.
 * White hook and loop tape (Velcro) [2 cm width] for the windlass clip strap.
-* Polyester cotton webbing strap [3.5-3.85 cm width] for the back face of the belt.
-* Nylon heavy-duty non-stretch webbing strap [2.5 cm width] for the internal belt.
+* Polyester cotton webbing strap [3.5-3.85 cm width, ~1.5 mm thickness] for the back face of the belt.
+* Nylon heavy-duty non-stretch webbing strap [2.5 cm width, ~1.3 mm thickness] for the internal belt.
 * Double cap rivets 7mm head
 * Polyester thread [0.75 mm thickness]
-* Cyanoacrylate glue (Super glue)
+* Cyanoacrylate glue (Super glue) for ABS or two-part epoxy glue for PETG
 * 3D-Printed components.
 
 ![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)
@@ -24,7 +24,7 @@
 
 ![Figure 1](../assets/instructions/figure1.jpg)
 
-2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes for increased tensile strength.
+2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes, second time use a zig-zag stich to flatten the overlap. That technique can improve how the whole belt slides through the buckle.
 
 ![Figure 2](../assets/instructions/figure2.jpg)
 
@@ -49,11 +49,14 @@
 
 ![Figure 6](../assets/instructions/figure6.jpg)
 
-10. With windlass in place, take up any slack in belt or strap.
+10. With windlass in place, leave visibe slack on the internal belt, so that it can be turned around half a rotation before the tourniquet starts to contract.
 
-11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The buckle should sit approximately 3cm from edge of backing plate. Sew the strap together with a couple of passes. Trim off any extra material.
+![Figure 6b](../assets/instructions/figure6b.JPG)
+
+11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The edge of the bridge on the backing plate should sit approximately 3 cm (2.5-3.5 cm) from the stitch fixing the buckle. Sew the strap together with a couple of passes. Trim off any extra material.
 
 ![Figure 7](../assets/instructions/figure7.jpg)
+![Figure 7b](../assets/instructions/figure7b.jpg)
 
 12. Remove any extra threads to clean up edges.
 
@@ -71,3 +74,5 @@
 
 
 * Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
+# Troubleshooting
+1. If you find it hard to sew the velcro tapes together, you can first stick them onto a long piece of masking tape, then sew, then rip off the masking tape.
