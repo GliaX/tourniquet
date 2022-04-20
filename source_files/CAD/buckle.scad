@@ -40,7 +40,7 @@ translate([8.6,23,3.5])itooth();
 translate([8.6,23-1.5-4.5,3.5])itooth();          
 module signeture(){
 linear_extrude(height=2, convexity=4)
-                text(" Glia .Gaza ", 
+                text(" ", 
                      size=5,
                      font="Bitstream Vera Sans:style=Bold",
                      halign="center",
