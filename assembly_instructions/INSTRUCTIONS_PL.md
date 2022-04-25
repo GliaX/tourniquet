@@ -23,18 +23,30 @@
  * Z nylonowego pasa parcianego utnij jeden fragment o długość 97cm
 
 ![Figure 1](../assets/instructions/figure1.jpg)
+![Illustration 1](../assets/instructions/illustration1.jpg)
 
-2. Dla przedniej części paska, zszywaj ze sobą po kolei przygotowane fragmenty paska rzepowego według podanej kolejności (fragment strony miękkiej o długości 6cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 12,5cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 12,5cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 19cm, fragment strony twardej o długości 15cm). Każdy z fragmentów zszywaj nakładając je na siebie, tworząc zakładkę o długości 5mm. Szyj w poprzek każdej zakładki tworząc dwa szwy, aby zwiększyć wytrzymałość paska na rozciąganie.
+2. Dla przedniej części paska, zszywaj ze sobą po kolei przygotowane fragmenty paska rzepowego według podanej kolejności (fragment strony miękkiej o długości 6cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 12,5cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 12,5cm, fragment strony twardej o długości 6cm, fragment strony miękkiej o długości 19cm, fragment strony twardej o długości 15cm). Każdy z fragmentów zszywaj nakładając je na siebie, tworząc zakładkę o długości 1cm. Szyj w poprzek każdej zakładki tworząc dwa szwy, aby zwiększyć wytrzymałość paska na rozciąganie.
 
-![Figure 2](../assets/instructions/figure2.jpg)
+![Illustration 2](../assets/instructions/illustration2.jpg)
+![Illustration 3](../assets/instructions/illustration3.jpg)
 
 3. Przygotowany w ten sposób pasek rzepowy połącz z poliestrowo-bawełnianym pasem parcianym, przeznaczonym na tylną część pasa. Zszyj je ze sobą po jednej stronie na całej jej długości. Drugą stronę pasa pozostaw niezszytą, tak, aby możliwe było włożenie do niego wewnętrznej części pasa.
 
+![Illustration 4](../assets/instructions/illustration4.jpg)
+
 4. Włóż nylonowy pas parciany pomiędzy pasek rzepowy i poliestrowo-bawełniany pas parciany. Doprowadź końcówki wszystkich trzech elementów do jednego końca.  Zszyj je ze sobą w poprzek na wysokości 3cm od końca, tak, by pasek wewnętrzny był przyczepiony do pozostałych dwóch. Następnie wykonaj szew na wzór litery „X” zaczynając od wysokości poprzedniego szwu (czyli 3cm od końca paska) do wysokości 5cm od końca paska.
+
+![Illustration 5](../assets/instructions/illustration5.jpg)
+![Illustration 6](../assets/instructions/illustration6.jpg)
+![Illustration 7](../assets/instructions/illustration7.jpg)
 
 5. Przytnij końcówkę do zaokrąglonego kształtu i obszyj cały pasek wzdłuż jego długości. Istotne jest przy tym, aby w trakcie zszywania zewnętrznych części paska, nie wszyć się w pasek wewnętrzny, gdyż musi być on w stanie swobodnie się poruszać.
 
+![Illustration 8](../assets/instructions/illustration8.jpg)
+
 6. Wywierć lub przebij dwa otwory poprzez cały pas na końcu 15 centymetrowego fragmentu paska rzepowego, by zamontować wydrukowany w drukarce 3D wspornik. Pasek rzepowy będzie zachodził na wspornik o 15mm.
+
+![Illustration 9](../assets/instructions/illustration9.jpg)
 
 7. Użyj dwustronnych nitów kaletniczych aby przymocować wspornik do paska poprzez przygotowane dwa otwory.
 

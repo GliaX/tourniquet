@@ -23,18 +23,30 @@
  * Nylon Heavy Webbing Strap (one piece 97 cm).
 
 ![Figure 1](../assets/instructions/figure1.jpg)
+![Illustration 1](../assets/instructions/illustration1.jpg)
 
-2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes. On the second pass, use a zig-zag stich to flatten the overlap. This sew pattern will allow the belt to slide through the buckle.
+2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 1cm and sew across each connecting joint with two passes for increased tensile strength. On the second pass, use a zig-zag stich to flatten the overlap. This sew pattern will allow the belt to slide through the buckle.
 
-![Figure 2](../assets/instructions/figure2.jpg)
+![Illustration 2](../assets/instructions/illustration2.jpg)
+![Illustration 3](../assets/instructions/illustration3.jpg)
 
 3. Sew hook and loop (Velcro) assembly to the piece of strap for the back face. Sew both together along the full length of one side. Leave the other side and the ends open to insert the internal belt.
 
+![Illustration 4](../assets/instructions/illustration4.jpg)
+
 4. Sandwich the internal belt between the hook and loop (Velcro) strap and back face. Bring the tip of all three pieces flush at one end. Sew across width 3cm from end so internal belt is anchored to both external pieces. Sew an “X” pattern from the previous stitch at 3cm to a point at 5cm.
+
+![Illustration 5](../assets/instructions/illustration5.jpg)
+![Illustration 6](../assets/instructions/illustration6.jpg)
+![Illustration 7](../assets/instructions/illustration7.jpg)
 
 5. Trim the tip to a rounded shape and sew the belt closed over the entire length. It is very important when sewing the two exterior faces together, that the internal belt remains free to move and is not caught along the side stitching.
 
+![Illustration 8](../assets/instructions/illustration8.jpg)
+
 6. Drill or punch two holes through the entire belt assembly at the end of 15 cm hook and loop (Velcro) piece to mount the 3d-printed backing plate. Hook and loop (Velcro) strap will overlap onto backing plate by 15mm.
+
+![Illustration 9](../assets/instructions/illustration9.jpg)
 
 7. Use double cap rivet to fasten the backing plate to the belt through the two holes.
 
