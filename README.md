@@ -28,9 +28,7 @@ See the assembly instruction manuals in the following languages:
 * [Ukrainian](assembly_instructions/INSTRUCTIONS_UA.md)
 * [Polish](assembly_instructions/INSTRUCTIONS_PL.md)
 * [French](assembly_instructions/INSTRUCTIONS_FR.md)
-
-Pending:
-* [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
+* [Russian](assembly_instructions/INSTRUCTIONS_RU.md)
 
 ## Tourniquet staging and folding Instructions
 There are several reasonable techniques for staging a CAT-style tourniquet. At Glia, we use and recommend the following technique, which is in use in Gaza: https://www.youtube.com/watch?v=CSECJQPJmLw
