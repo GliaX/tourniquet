@@ -15,11 +15,23 @@ Print the 3MF file, modified to your needs. It's not recommended to edit the mes
 * Infill: 100%
 * Bed temperature: 100°C temp at the first layer to avoid warping.
 
-* Supports: The buckle and rod need to be printed with support. Make sure there is no support on the holder part.
-* Vertical shells:
-  * Buckle: 2 perimeters
-  * Holder and rod: 4 perimeters
-* Horizontal shells: Print all parts with 2 top and 2 bottom horizontal shell thickness. Holder and rod should have 4 top and 4 bottom.
+### Settings Per Part:
+* backing_support:
+  * No support
+  * 4 perimeter shells/walls
+  * 2 bottom/top shells/walls
+* buckle:
+  * Supports
+  * 2 perimeter shells/walls
+  * 2 bottom/top shells/walls
+* clip:
+  * No supports
+  * 4 permiter shells/walls
+  * 4 bottom/top shells/walls
+* windlass:
+  * Supports
+  * 4 permiter shells/walls
+  * 4 bottom/top shells/walls
 
 ## Assembly Instructions
 See the assembly instruction manuals in the following languages:
