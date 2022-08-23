@@ -62,12 +62,12 @@ https://github.com/GliaX/tourniquet
 
 8. Insert only the internal belt through the slot in the 3d-printed windlass rod.
 
-![Fig10](../assets/instructions/fig10.png)
+![Fig10](../assets/instructions/fig10.jpg)
 
 
 9. Then insert the internal and external belts through the slot on the back plate, ensuring the 	orientation of the back plate is correct as in the photo below.
 
-![Fig11](../assets/instructions/fig11.png)
+![Fig11](../assets/instructions/fig11.jpg)
 
 
 10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
@@ -88,7 +88,7 @@ https://github.com/GliaX/tourniquet
 
 13. Punch two holes through the external belt only (avoid the internal belt) where the holes are 	located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the 	back plate to the belt.
 
-|![Fig16](../assets/instructions/fig16.png)|![Fig17](../assets/instructions/fig17.png)|
+|![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
 |:--------------------------------------|:-------------------------|
 
 
@@ -100,7 +100,7 @@ https://github.com/GliaX/tourniquet
 
 15. To sew the Hoop and Loop assembly to be adhered to the clip, sew the end of the white non-adhesive Loop (face down) to the centre point of adhesive Hook (face up / black in the photo below).
 
-![Fig20](../assets/instructions/fig20.png)
+![Fig20](../assets/instructions/fig20.jpg)
 
 
 16. Adhere the Hook to the clip (Hook is black in the photos). Use Cyanoacrylate (Super Glue) to 	permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive 	to stick if clip is printed in PETG. Glue is applied as a dab under the open ends of the clip to 	glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
@@ -117,7 +117,7 @@ https://github.com/GliaX/tourniquet
 
 18. Completed tourniquet, folded and ready for packaging.
 
-![Fig25](../assets/instructions/fig25.png)
+![Fig25](../assets/instructions/fig25.jpg)
 
 
 * Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
