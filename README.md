@@ -28,8 +28,6 @@ See the assembly instruction manuals in the following languages:
 * [Ukrainian](assembly_instructions/INSTRUCTIONS_UA.md)
 * [Polish](assembly_instructions/INSTRUCTIONS_PL.md)
 * [French](assembly_instructions/INSTRUCTIONS_FR.md)
-* [English_revised](assembly_instructions/Revised_Tourniquet_Assembly.pdf)
-* [Addendum EN](assembly_instructions/Addendum_to_Instructions_EN.pdf)
 
 Pending:
 * [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
