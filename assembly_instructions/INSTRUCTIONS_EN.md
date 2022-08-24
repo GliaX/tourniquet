@@ -129,7 +129,7 @@ https://github.com/GliaX/tourniquet
 
 1(a). Sew the Hook and Loop belt to the 4cm external strapping down both long sides leaving both short ends open. This creates a tube in which the internal belt can be inserted into.
 
-|![Fig26](../assets/instructions/fig26.png)|![Fig27](../assets/instructions/fig27.png)|
+|![Fig26](../assets/instructions/fig26.jpg)|![Fig27](../assets/instructions/fig27.jpg)|
 |:--------------------------------------|:-------------------------|
 
 1(b). Secure one end of the internal belt to one end of a rod that is the same length (or longer) than the internal belt.
@@ -138,7 +138,7 @@ https://github.com/GliaX/tourniquet
 
 1(c). Insert that end into the external belt all the way until it comes out the other end. Then take the rod out leaving the internal belt inside the external belt.
 
-|![Fig29](../assets/instructions/fig29.png)|![Fig30](../assets/instructions/fig30.png)|
+|![Fig29](../assets/instructions/fig29.jpg)|![Fig30](../assets/instructions/fig30.jpg)|
 |:--------------------------------------|:-------------------------|
 
 1(d). Sew across the internal and external belts with a straight stitch 3 cm from the end with the small Loop piece, anchoring the internal belt between both sides 		of the external belt, as in step #5 of the Tourniquet Assembly Instructions.
