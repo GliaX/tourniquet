@@ -38,7 +38,7 @@ https://github.com/GliaX/tourniquet
 ![Fig3](../assets/instructions/fig3.png)
 
 
-4. Sew the polyester cotton webbing strap (3.8cm wide) to the Hook and Loop assembly just sewn, making sure that the Hook and Loop is facing outward. Sew one long side only and leave the 	other side free to insert the internal belt. (For alternative method of inserting internal belt, please see Addendum to Tourniquet Assembly Instructions.)
+4. Sew the polyester cotton webbing strap (3.8cm wide) to the Hook and Loop assembly just sewn, making sure that the Hook and Loop is facing outward. Sew one long side only and leave the 	other side free to insert the internal belt. (For alternative method of inserting internal belt, please see Addendum at the bottom of these Tourniquet Assembly Instructions.)
 
 |![Fig4](../assets/instructions/fig4.jpg)|![Fig5](../assets/instructions/fig5.jpg)|
 |:--------------------------------------|:-------------------------|
@@ -123,3 +123,27 @@ https://github.com/GliaX/tourniquet
 * Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
 # Troubleshooting
 1. If you find it hard to sew the velcro tapes together, you can first stick them onto a long piece of masking tape, then sew, then rip off the masking tape.
+# Addendum
+1. **Alternative Inner Belt Insertion**
+<br><br>*An alternative method of inserting the internal belt into the external belt (covering steps #4, 5, 6 and 7 in the Tourniquet Assembly Instructions).*
+
+1(a). Sew the Hook and Loop belt to the 4cm external strapping down both long sides leaving both short ends open. This creates a tube in which the internal belt can be inserted into.
+
+|![Fig26](../assets/instructions/fig26.png)|![Fig27](../assets/instructions/fig27.png)|
+|:--------------------------------------|:-------------------------|
+
+1(b). Secure one end of the internal belt to one end of a rod that is the same length (or longer) than the internal belt.
+
+![Fig28](../assets/instructions/fig28.jpg)
+
+1(c). Insert that end into the external belt all the way until it comes out the other end. Then take the rod out leaving the internal belt inside the external belt.
+
+|![Fig29](../assets/instructions/fig29.png)|![Fig30](../assets/instructions/fig30.png)|
+|:--------------------------------------|:-------------------------|
+
+1(d). Sew across the internal and external belts with a straight stitch 3 cm from the end with the small Loop piece, anchoring the internal belt between both sides 		of the external belt, as in step #5 of the Tourniquet Assembly Instructions.
+
+1(e). Continue with step #6 of the instructions, sewing a box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the 		cut edge. Carefully burn off frayed edge of belt.
+
+1(f). Skip step #7, and continue on with step #8 of the Tourniquet Assembly	Instructions.
+
