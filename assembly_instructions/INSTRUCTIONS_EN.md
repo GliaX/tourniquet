@@ -6,7 +6,7 @@
 
 |Double Cap Rivet<br>7mm head|Strong Polyester Thread<br>We use Tex-40 TK50/2<br>Poly Poly Core|Cyanoacrylate (Super Glue)<br>for ABS, or<br>90 second Epoxy Adhesive <br>for PETG|
 |:-------------------------|:-------------------------|:-------------------------|
-|![Double cap rivet](../assets/instructions/part5.jpg)|![thread](../assets/instructions/part7.png)|![glue](../assets/instructions/part8.jpg)|
+|![Double cap rivet](../assets/instructions/part5.jpg)|![thread](../assets/instructions/part7.jpg)|![glue](../assets/instructions/part8.jpg)|
 
 ![Fig1](../assets/instructions/fig1.jpg)
 <br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
