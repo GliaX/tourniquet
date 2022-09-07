@@ -6,7 +6,7 @@
 
 |Double Cap Rivet<br>7mm head|Strong Polyester Thread<br>We use Tex-40 TK50/2<br>Poly Poly Core|Cyanoacrylate (Super Glue)<br>for ABS, or<br>90 second Epoxy Adhesive <br>for PETG|
 |:-------------------------|:-------------------------|:-------------------------|
-|![Double cap rivet](../assets/instructions/part5.jpg)|![thread](../assets/instructions/part7.jpg)|![glue](../assets/instructions/part8.jpg)|
+|![Double cap rivet](../assets/instructions/part5.jpg)|<img src="../assets/instructions/part7.jpg" width="300" height="400" alt="thread">|<img src="../assets/instructions/part8.jpg" width="300" height="400" alt="glue">|
 
 ![Fig1](../assets/instructions/fig1.jpg)
 <br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
@@ -57,23 +57,27 @@ https://github.com/GliaX/tourniquet
 
 7. Sew the open side of the exterior belt making sure not to sew the side edge of the internal belt 	as well. **It is very important that the internal belt remains free to move.**
 
-![Fig9](../assets/instructions/fig9.png)
-
+<p align="center">
+  <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
+</p>
 
 8. Insert only the internal belt through the slot in the 3d-printed windlass rod.
 
-![Fig10](../assets/instructions/fig10.jpg)
-
+<p align="center">
+<img src="../assets/instructions/fig10.jpg" width="600" height="600" alt="Fig10">
+</p>
 
 9. Then insert the internal and external belts through the slot on the back plate, ensuring the 	orientation of the back plate is correct as in the photo below.
 
-![Fig11](../assets/instructions/fig11.jpg)
-
+<p align="center">
+<img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
+</p>
 
 10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
 
-![Fig12](../assets/instructions/fig12.pg)
-
+<p align="center">
+<img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
+</p>
 
 11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate.
 
