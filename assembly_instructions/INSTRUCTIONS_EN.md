@@ -1,78 +1,153 @@
 # Bill of materials
-* Black hook and loop tape (Velcro) [3.5-3.85 cm width] for the front face of the belt
-* White hook and loop tape (Velcro) [2 cm width] for the windlass clip strap
-* Polyester cotton webbing strap [3.5-3.85 cm width, ~1.5 mm thickness] for the back face of the belt
-* Nylon heavy-duty non-stretch webbing strap [2.5 cm width, ~1.3 mm thickness] for the internal belt
-* Double cap rivets 7mm head
-* Polyester thread [0.75 mm thickness]
-* Cyanoacrylate glue (Super glue) for ABS or two-part epoxy glue for PETG
-* 3D-Printed components
 
-![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)
-![White self-adhesive hook and loop tape](../assets/instructions/part2.jpg)
-![Polyester cotton webbing strap](../assets/instructions/part3.jpg)
-![Nylon heavy webbing strap](../assets/instructions/part4.jpg)
-![Double cap rivet](../assets/instructions/part5.jpg)
-![Omni tape](../assets/instructions/part6.jpg)
+|Black Non-Adhesive<br>Hook and Loop Tape<br>3.8cm wide (1.5”)<br>for front face<br>of external belt|White Self-Adhesive<br>Hook and Non-<br>Adhesive Loop Tape<br>1.9cm wide (.75”)<br>for clip|Polyester Cotton<br>Webbing Strap<br>3.8cm wide (1.5”),<br>0.5mm thick<br>for back face<br>external belt|Nylon Heavy Webbing<br>Strap **no stretch at all**<br>1.9cm wide (.75”),<br>1mm thick<br>for internal belt|
+|:-------------------------|:-------------------------|:-------------------------|:-------------------------|
+|![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)|![White self-adhesive hook and loop tape](../assets/instructions/part2.jpg)|![Polyester cotton webbing strap](../assets/instructions/part3.jpg)|![Nylon heavy webbing strap](../assets/instructions/part4.jpg)|
+
+|Double Cap Rivet<br>7mm head|Strong Polyester Thread<br>We use Tex-40 TK50/2<br>Poly Poly Core|Cyanoacrylate (Super Glue)<br>for ABS, or<br>90 second Epoxy Adhesive <br>for PETG|
+|:-------------------------|:-------------------------|:-------------------------|
+|![Double cap rivet](../assets/instructions/part5.jpg)|<img src="../assets/instructions/part7.jpg" width="300" height="400" alt="thread">|<img src="../assets/instructions/part8.jpg" width="300" height="400" alt="glue">|
+
+![Fig1](../assets/instructions/fig1.jpg)
+<br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
+https://github.com/GliaX/tourniquet
 
 # Assembly instructions
-1. Cut all the straps and hook and loop (Velcro) pieces to the required lengths.
- * Black hook and loop (Velcro) (Hook: 3 pieces 6 cm each & one piece 15 cm length, Loop: one piece 6 cm, two pieces 12.5 cm, one piece 19 cm)
- * White Self-Adhesive Hook and Loop Tape (Hook: 20 cm, Loop: 20 cm) one piece for each.
- * Polyester Cotton Webbing Strap (one piece 97 cm).
- * Nylon Heavy Webbing Strap (one piece 97 cm).
+1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 
-![Figure 1](../assets/instructions/figure1.jpg)
+|Material|Quantity|Length|
+|:--------------------------------------|:-------------------------|:-------------------------|
+|Black Non-Adhesive Hook 4 cm wide|3|6cm|
+|Black Non-Adhesive Hook 4 cm wide|1|15cm|
+|Black Non-Adhesive Loop 4 cm wide|1|6cm|
+|Black Non-Adhesive Loop 4 cm wide|2|12.5cm|
+|Black Non-Adhesive Loop 4 cm wide|1|19cm|
+|Polyester Cotton Strap 4 cm wide|1|92cm|
+|Nylon Heavy Webbing Strap 2 cm wide|1|92cm|
+|White Adhesive Hook 2 cm wide|1|16cm|
+|Non-Adhesive Loop 2 cm wide|1|17cm|
 
-2. For the front face of the belt, sew the hook and loop (Velcro) pieces together sequentially [6 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 12.5 cm Loop, 6cm Hook, 19 cm Loop, 15 cm Hook]. Overlap each piece by 5mm and sew across each connecting joint with two passes. On the second pass, use a zig-zag stich to flatten the overlap. This sew pattern will allow the belt to slide through the buckle.
 
-![Figure 2](../assets/instructions/figure2.jpg)
+2. For the front face of the belt, begin by placing the Hook and Loop in order of how they will be sewn together. The first piece to sew is the 6cm Loop to the 6cm Hook at the rounded end of the belt.
 
-3. Sew hook and loop (Velcro) assembly to the piece of strap for the back face. Sew both together along the full length of one side. Leave the other side and the ends open to insert the internal belt.
+![Fig2](../assets/instructions/fig2.png)
 
-4. Sandwich the internal belt between the hook and loop (Velcro) strap and back face. Bring the tip of all three pieces flush at one end. Sew across width 3cm from end so internal belt is anchored to both external pieces. Sew an “X” pattern from the previous stitch at 3cm to a point at 5cm.
 
-5. Trim the tip to a rounded shape and sew the belt closed over the entire length. It is very important when sewing the two exterior faces together, that the internal belt remains free to move and is not caught along the side stitching.
+3. Sew pieces together sequentially in a cascading pattern by placing the edge of each piece above 	the edge of the next piece and then sewing across them along the seam a couple of times with a zigzag stitch. This type of assembly increases tensile strength, and facilitates a smooth pull through the buckle.
 
-6. Drill or punch two holes through the entire belt assembly at the end of 15 cm hook and loop (Velcro) piece to mount the 3d-printed backing plate. Hook and loop (Velcro) strap will overlap onto backing plate by 15mm.
+![Fig3](../assets/instructions/fig3.png)
 
-7. Use double cap rivet to fasten the backing plate to the belt through the two holes.
 
-![Figure 3](../assets/instructions/figure3.jpg)
-![Figure 4](../assets/instructions/figure4.jpg)
+4. Sew the polyester cotton webbing strap (3.8cm wide) to the Hook and Loop assembly just sewn, making sure that the Hook and Loop is facing outward. Sew one long side only and leave the 	other side free to insert the internal belt. (For alternative method of inserting internal belt, please see Addendum at the bottom of these Tourniquet Assembly Instructions.)
 
-8. Insert the sewn belt tip through slot in 3d-printed clip until it reaches the backing support. Take into account keeping the closed-end of the clip towards the backing plate.
+|![Fig4](../assets/instructions/fig4.jpg)|![Fig5](../assets/instructions/fig5.jpg)|
+|:--------------------------------------|:-------------------------|
 
-![Figure 5](../assets/instructions/figure5.jpg)
 
-9. Insert the internal belt through the slot in the 3d-printed windlass rod, and then through the slot on the backing support along with the remaining strap.
+5. Insert the internal belt between the front and back of the external belt, and then sew across the 	internal and external belts with a straight stitch 3 cm from the end with the small 6 cm Loop 	piece, anchoring the internal belt between both sides of the external belt.
 
-![Figure 6](../assets/instructions/figure6.jpg)
+|![Fig6](../assets/instructions/fig6.png)|![Fig7](../assets/instructions/fig7.png)|
+|:--------------------------------------|:-------------------------|
 
-10. With windlass in place, leave visible slack on the internal belt so that the windlass sits 25-30mm above the backing plate.
 
-![Figure 6b](../assets/instructions/figure6b.jpg)
+6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and 	sew around the cut edge. Carefully burn off frayed edge of belt.
 
-11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The edge of the bridge on the backing plate should sit approximately 3 cm (2.5-3.5 cm) from the stitch fixing the buckle. Sew the strap together with a couple of passes. Trim off any extra material.
+![Fig8](../assets/instructions/fig8.png)
 
-![Figure 7](../assets/instructions/figure7.jpg)
-![Figure 7b](../assets/instructions/figure7b.jpg)
 
-12. Remove any extra threads to clean up edges.
+7. Sew the open side of the exterior belt making sure not to sew the side edge of the internal belt 	as well. **It is very important that the internal belt remains free to move.**
 
-13. Ensure rounded tip of belt is stitched closed.
+<p align="center">
+  <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
+</p>
 
-![Figure 8](../assets/instructions/figure8.jpg)
+8. Insert only the internal belt through the slot in the 3d-printed windlass rod.
 
-14. Sew end of white Hook to the centre point of white Loop to make strap for windlass clip.
+<p align="center">
+<img src="../assets/instructions/fig10.jpg" width="600" height="600" alt="Fig10">
+</p>
 
-![Figure 9](../assets/instructions/figure9.jpg)
+9. Then insert the internal and external belts through the slot on the back plate, ensuring the 	orientation of the back plate is correct as in the photo below.
 
-15. Use super glue to fasten windlass strap on windlass clip. Hook piece will remain free to wrap over top. Super glue intended for use on ABS.
+<p align="center">
+<img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
+</p>
 
-![Figure 10](../assets/instructions/figure10.jpg)
+10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
+
+<p align="center">
+<img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
+</p>
+
+11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate.
+
+|![Fig13](../assets/instructions/fig13.png)|![Fig14](../assets/instructions/fig14.png)|
+|:--------------------------------------|:-------------------------|
+
+
+12. Position edge of back plate under the piece of hook by 15 mm.
+
+![Fig15](../assets/instructions/fig15.jpg)
+
+
+13. Punch two holes through the external belt only (avoid the internal belt) where the holes are 	located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the 	back plate to the belt.
+
+|![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
+|:--------------------------------------|:-------------------------|
+
+
+14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward 	the long end of the belt, capped end toward the buckle. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
+
+|![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
+|:--------------------------------------|:-------------------------|
+
+
+15. To sew the Hoop and Loop assembly to be adhered to the clip, sew the end of the white non-adhesive Loop (face down) to the centre point of adhesive Hook (face up / black in the photo below).
+
+![Fig20](../assets/instructions/fig20.jpg)
+
+
+16. Adhere the Hook to the clip (Hook is black in the photos). Use Cyanoacrylate (Super Glue) to 	permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive 	to stick if clip is printed in PETG. Glue is applied as a dab under the open ends of the clip to 	glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
+
+|![Fig21](../assets/instructions/fig21.png)|![Fig22](../assets/instructions/fig22.png)|
+|:--------------------------------------|:-------------------------|
+
+
+17. To prepare for folding, position the white Loop piece same as in the photos below.
+
+|![Fig23](../assets/instructions/fig23.png)|![Fig24](../assets/instructions/fig24.png)|
+|:--------------------------------------|:-------------------------|
+
+
+18. Completed tourniquet, folded and ready for packaging.
+
+![Fig25](../assets/instructions/fig25.jpg)
 
 
 * Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
 # Troubleshooting
 1. If you find it hard to sew the velcro tapes together, you can first stick them onto a long piece of masking tape, then sew, then rip off the masking tape.
+# Addendum
+1. **Alternative Inner Belt Insertion**
+<br><br>*An alternative method of inserting the internal belt into the external belt (covering steps #4, 5, 6 and 7 in the Tourniquet Assembly Instructions).*
+
+1(a). Sew the Hook and Loop belt to the 4cm external strapping down both long sides leaving both short ends open. This creates a tube in which the internal belt can be inserted into.
+
+|![Fig26](../assets/instructions/fig26.jpg)|![Fig27](../assets/instructions/fig27.jpg)|
+|:--------------------------------------|:-------------------------|
+
+1(b). Secure one end of the internal belt to one end of a rod that is the same length (or longer) than the internal belt.
+
+![Fig28](../assets/instructions/fig28.jpg)
+
+1(c). Insert that end into the external belt all the way until it comes out the other end. Then take the rod out leaving the internal belt inside the external belt.
+
+|![Fig29](../assets/instructions/fig29.jpg)|![Fig30](../assets/instructions/fig30.jpg)|
+|:--------------------------------------|:-------------------------|
+
+1(d). Sew across the internal and external belts with a straight stitch 3 cm from the end with the small Loop piece, anchoring the internal belt between both sides 		of the external belt, as in step #5 of the Tourniquet Assembly Instructions.
+
+1(e). Continue with step #6 of the instructions, sewing a box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the 		cut edge. Carefully burn off frayed edge of belt.
+
+1(f). Skip step #7, and continue on with step #8 of the Tourniquet Assembly	Instructions.
+
