@@ -33,7 +33,8 @@ Pending:
 * [Russian](assembly_instructions/INSTRUCTIONS_RU.md) (_Pending_)
 
 ## Tourniquet staging and folding Instructions
-There are several reasonable techniques for staging a CAT-style tourniquet. At Glia, we use and recommend the following technique, which is in use in Gaza: https://www.youtube.com/watch?v=CSECJQPJmLw
+There are several reasonable techniques for staging a CAT-style tourniquet. At Glia, we use and recommend the following technique, which is in use in Gaza: 
+[tourniquet folding video](user_instructions/foldingvideo.mp4)
 
 ## Packaging Instructions
 The tourniquet should be packaged in clear, thin plastic such as PVC wrap to prevent any degradation from humidity or other environmental factors. This wrap should be easy to remove with bare hands and no tools.
