@@ -24,7 +24,7 @@ Since March 2022, Glia has received many inquiries from additive manufacturers w
 
 **6. I have made a tourniquet. How do I test it?**
 
-*Currently, no open source standards exist for tourniquet unit testing or production testing. Glia is in the process of documenting clinical parameter standards by partnering with University of Western Ontario (UWO) FAST Research Group, with publication anticipated by end of summer 2022. The developments of these standards will allow Glia to create production, material, and quality assurance standards.*
+*Currently, no open source standards exist for tourniquet unit testing or production testing. Glia is in the process of documenting clinical parameter standards by partnering with University of Western Ontario (UWO) FAST Research Group, with publication anticipated by end of 2022. The developments of these standards will allow Glia to create production, material, and quality assurance standards.*
 
 **7. I am an engineer who would like to help develop standards for the Glia tourniquet. How can I help?**
 
