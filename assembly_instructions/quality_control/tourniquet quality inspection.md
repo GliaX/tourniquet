@@ -55,25 +55,25 @@ The clip is installed with the "capped" end towards the windlass and buckle and 
 
 Image goes here.
 
-### IC-0050 (Measurement from back plate to windlass)
+### IC-0050 (Measurement from back plate to windlass slot)
 |Method of inspection|Tools required for inspection|
 |---|---|
 |Length measurement|Ruler OR Tape measure OR more accurate device|
 
-The distance between the back plate and the windlass must be between X.Ymm and A.Bmm.
+The distance between the backing plate and the windlass slot must 25mm +/- 2mm.
 
 ### IC-0060 (Measurement back plate to buckle stitching)
 |Method of inspection|Tools required for inspection|
 |---|---|
 |Length measurement|Ruler OR Tape measure OR more accurate device|
 
-The distance between the back plate and stitching that secures the buckle must be between X.Ymm and A.Bmm.
+The distance between the back plate and stitching that secures the buckle must be 30mm.
 
 ### IC-0070 (Routing of strap thru buckle slot, orientation of buckle)
 |Method of inspection|Tools required for inspection|
 |---|---|
 |Length measurement|Ruler OR Tape measure OR more accurate device|
 
-The buckle must be oriented with the toothed side of the buckle away from the backing plate.
+The buckle must be oriented with the strap run thru the plain "open" side. The toothed "gripper" side of the buckle must be at the end of the tourniquet.
 
 Image goes here
