@@ -46,6 +46,9 @@ The round end of the strap must be heat sealed.
 
 Both rivets are installed and secure.
 
+![IC-0030A1 Rivets in place from top](./quality_images/IC-0030A1.jpg)
+![IC-0030A2 Rivets in place from bottom](./quality_images/IC-0030A2.jpg)
+
 ### IC-0040 (Clip orientation)
 |Method of inspection|Tools required for inspection|
 |---|---|
@@ -53,14 +56,20 @@ Both rivets are installed and secure.
 
 The clip is installed with the "capped" end towards the windlass and buckle and the "open" end facing away.
 
-Image goes here.
+![IC-0040A1 Clip oriented with capped ends towards windlass](./quality_images/IC-0040A1.jpg)
+
+Note: the capped ends are there to provide strength to the clip. They are NOT supposed to "cover" the windlass when it is secured. The windlass will stick out thru the open end of the clip when properly secured during application to an extremity.
+
+![IC-0040A1 Clip oriented with capped ends towards windlass](./quality_images/IC-0040A2.jpg)
 
 ### IC-0050 (Measurement from back plate to windlass slot)
 |Method of inspection|Tools required for inspection|
 |---|---|
-|Length measurement|Ruler OR Tape measure OR more accurate device|
+|Length measurement|Ruler OR more accurate device|
 
 The distance between the backing plate and the windlass slot must 25mm +/- 2mm.
+
+![IC-0050A1 measurement between back plate and windlass slot](./quality_images/IC-0050A1.jpg)
 
 ### IC-0060 (Measurement back plate to buckle stitching)
 |Method of inspection|Tools required for inspection|
