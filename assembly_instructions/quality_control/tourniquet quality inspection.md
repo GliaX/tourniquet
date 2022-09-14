@@ -19,7 +19,7 @@ For example, if there were three images depicting orientation characteristic IC-
 
 |Example image name|Example image description|
 |---|---|
-|IC-0010A01|First image depicting a _confirming_ condition of IC-0010|
+|IC-0010A01|First image depicting a _conforming_ condition of IC-0010|
 |IC-0010A02|Second image depicting a _conforming_ condition of IC-0010|
 |IC-0010N01|An image depicting a _non-conforming_ condition of IC-0010|
 
