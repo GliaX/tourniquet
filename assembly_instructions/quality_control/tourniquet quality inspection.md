@@ -67,7 +67,7 @@ The distance between the backing plate and the windlass slot must 25mm +/- 2mm.
 |---|---|
 |Length measurement|Ruler OR Tape measure OR more accurate device|
 
-The distance between the back plate and stitching that secures the buckle must be 30mm.
+The distance between the back plate and stitching that secures the buckle must be 30mm +/- 2mm.
 
 ### IC-0070 (Routing of strap thru buckle slot, orientation of buckle)
 |Method of inspection|Tools required for inspection|
