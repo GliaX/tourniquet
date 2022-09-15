@@ -87,7 +87,7 @@ https://github.com/GliaX/tourniquet
 
 12. Position edge of back plate under the piece of hook by 15 mm.
 
-![Fig15](../assets/instructions/fig15.jpg)
+![Fig15](../assets/instructions/fig15.png)
 
 
 13. Punch two holes through the external belt only (avoid the internal belt) where the holes are 	located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the 	back plate to the belt.
