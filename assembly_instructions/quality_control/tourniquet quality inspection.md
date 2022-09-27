@@ -9,19 +9,7 @@ This document is revision: **A**
 
 ## Purpose
 
-This document contains the quality inspection characteristics and methods of inspection. In other words, what things need to be inspected and how to inspect those things. This document also describes how to maintain supporting files such as images.
-
-### Image naming
-
-Images used in this document are named with the characteristic to which they correspond, a letter to indicate if they depict a conforming or a non-conforming condition, and a sequential number to distinguish them from other images that depict the same characteristic.
-
-For example, if there were three images depicting orientation characteristic IC-0010 with two of the images depicting acceptable conditions and one depicting a non-acceptable condition then the images would be named as follows:
-
-|Example image name|Example image description|
-|---|---|
-|IC-0010A01|First image depicting a _conforming_ condition of IC-0010|
-|IC-0010A02|Second image depicting a _conforming_ condition of IC-0010|
-|IC-0010N01|An image depicting a _non-conforming_ condition of IC-0010|
+This document contains the quality inspection characteristics and methods of inspection. In other words, what things need to be inspected and how to inspect those things.
 
 ## Inspection characteristics
 
