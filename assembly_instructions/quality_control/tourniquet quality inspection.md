@@ -27,7 +27,7 @@ All sewing must be complete. All loose threads must be removed.
 
 The round end of the strap must be heat sealed.
 
-![IC-0020A1 Rivets in place from top](./quality_images/IC-0020A1.jpg)
+![IC-0020A1 End of strap heat sealed](./quality_images/IC-0020A1.jpg)
 
 
 ### IC-0030 (Rivets installed)
@@ -69,11 +69,13 @@ The distance between the backing plate and the windlass slot must 25mm +/- 2mm.
 
 The distance between the back plate and stitching that secures the buckle must be 30mm +/- 2mm.
 
+![IC-0050A1 measurement between the back plate and the stitching that secures the buckle](./quality_images/IC-0060A1.jpg)
+
 ### IC-0070 (Routing of strap thru buckle slot, orientation of buckle)
 |Method of inspection|Tools required for inspection|
 |---|---|
-|Length measurement|Ruler OR Tape measure OR more accurate device|
+|Visual inspection|None|
 
 The buckle must be oriented with the strap run thru the plain "open" side. The toothed "gripper" side of the buckle must be at the end of the tourniquet.
 
-Image goes here
+![IC-0070A1 Orientation of the buckle](./quality_images/IC-0070A1.jpg)
