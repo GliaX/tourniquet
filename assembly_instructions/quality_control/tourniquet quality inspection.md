@@ -27,6 +27,9 @@ All sewing must be complete. All loose threads must be removed.
 
 The round end of the strap must be heat sealed.
 
+![IC-0020A1 Rivets in place from top](./quality_images/IC-0020A1.jpg)
+
+
 ### IC-0030 (Rivets installed)
 |Method of inspection|Tools required for inspection|
 |---|---|
