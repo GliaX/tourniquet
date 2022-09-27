@@ -51,7 +51,7 @@ The clip is installed with the "capped" end towards the windlass and buckle and 
 
 Note: the capped ends are there to provide strength to the clip. They are NOT supposed to "cover" the windlass when it is secured. The windlass will stick out thru the open end of the clip when properly secured during application to an extremity.
 
-![IC-0040A1 Clip oriented with capped ends towards windlass](./quality_images/IC-0040A2.jpg)
+![IC-0040A1 Clip oriented with capped ends towards windlass and windlass clipped in](./quality_images/IC-0040A2.jpg)
 
 ### IC-0050 (Measurement from back plate to windlass slot)
 |Method of inspection|Tools required for inspection|
@@ -65,7 +65,7 @@ The distance between the backing plate and the windlass slot must 25mm +/- 2mm.
 ### IC-0060 (Measurement back plate to buckle stitching)
 |Method of inspection|Tools required for inspection|
 |---|---|
-|Length measurement|Ruler OR Tape measure OR more accurate device|
+|Length measurement|Ruler OR more accurate device|
 
 The distance between the back plate and stitching that secures the buckle must be 30mm +/- 2mm.
 
@@ -78,4 +78,4 @@ The distance between the back plate and stitching that secures the buckle must b
 
 The buckle must be oriented with the strap run thru the plain "open" side. The toothed "gripper" side of the buckle must be at the end of the tourniquet.
 
-![IC-0070A1 Orientation of the buckle](./quality_images/IC-0070A1.jpg)
+![IC-0070A1 Strap routed thru the buckle](./quality_images/IC-0070A1.jpg)
