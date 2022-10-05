@@ -45,8 +45,6 @@
 
 ![Figure 5](../assets/instructions/figure5.jpg)
 
-Note: The capped end of the clip is NOT supposed to cover the windlass. The windlass will stick out of the open end of the clip when it is tightened.
-
 9. Insert the internal belt through the slot in the 3d-printed windlass rod, and then through the slot on the backing support along with the remaining strap.
 
 ![Figure 6](../assets/instructions/figure6.jpg)
