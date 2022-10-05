@@ -21,7 +21,3 @@ This checklist is at revision **A** and corresponds to quality inspection charac
 |Date of inspection||
 |Person performing inspection||
 |Signature or stamp of person performing inspection||
-
-Inspection criteria available at: link goes there
-
-For more information contact: contact information goes here
