@@ -20,4 +20,3 @@ This checklist is at revision **A** and corresponds to quality inspection charac
 |Location of inspection||
 |Date of inspection||
 |Person performing inspection||
-|Signature or stamp of person performing inspection||
