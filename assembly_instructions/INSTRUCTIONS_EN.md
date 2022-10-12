@@ -12,6 +12,7 @@
 <br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
 https://github.com/GliaX/tourniquet
 
+<br><br>
 # Assembly instructions
 1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 
@@ -28,98 +29,100 @@ https://github.com/GliaX/tourniquet
 |Non-Adhesive Loop 2 cm wide|1|17cm|
 
 
-2. For the front face of the belt, begin by placing the Hook and Loop in order of how they will be sewn together. The first piece to sew is the 6cm Loop to the 6cm Hook at the rounded end of the belt.
-
+<br><br>2. For the front face of the belt, begin by placing the Hook and Loop in order of how they will be sewn together. The first piece to sew is the 6cm Loop to the 6cm Hook at the rounded end of the belt.
 ![Fig2](../assets/instructions/fig2.png)
 
-
-3. Sew pieces together sequentially in a cascading pattern by placing the edge of each piece above 	the edge of the next piece and then sewing across them along the seam a couple of times with a zigzag stitch. This type of assembly increases tensile strength, and facilitates a smooth pull through the buckle.
+<br><br>3. Sew pieces together sequentially in a cascading pattern by placing the edge of each piece above 	the edge of the next piece and then sewing across them along the seam a couple of times with a zigzag stitch. This type of assembly increases tensile strength, and facilitates a smooth pull through the buckle.
 
 ![Fig3](../assets/instructions/fig3.png)
 
 
-4. Sew the polyester cotton webbing strap (3.8cm wide) to the Hook and Loop assembly just sewn, making sure that the Hook and Loop is facing outward. Sew one long side only and leave the 	other side free to insert the internal belt. (For alternative method of inserting internal belt, please see Addendum at the bottom of these Tourniquet Assembly Instructions.)
+4. Sew the polyester cotton webbing strap (3.8cm wide) to the Hook and Loop assembly just sewn, making sure that the Hook and Loop is facing outward. Sew one long side only and leave the 	other side free to insert the internal belt. **Make sure there are no gaps in the sew line along the edge as that could affect the successful use of the device.**
+<br><br>*For alternative method of inserting the internal belt, please see Addendum at the bottom of these Tourniquet Assembly Instructions. This alternative method is especially useful when the inner strap is wider than 2cm.*
 
 |![Fig4](../assets/instructions/fig4.jpg)|![Fig5](../assets/instructions/fig5.jpg)|
 |:--------------------------------------|:-------------------------|
 
-
-5. Insert the internal belt between the front and back of the external belt, and then sew across the 	internal and external belts with a straight stitch 3 cm from the end with the small 6 cm Loop 	piece, anchoring the internal belt between both sides of the external belt.
+<br><br>5. Insert the internal belt between the front and back of the external belt, and then sew across the 	internal and external belts with a straight stitch 3 cm from the end with the small 6 cm Loop piece, anchoring the internal belt between both sides of the external belt.
 
 |![Fig6](../assets/instructions/fig6.png)|![Fig7](../assets/instructions/fig7.png)|
 |:--------------------------------------|:-------------------------|
 
 
-6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and 	sew around the cut edge. Carefully burn off frayed edge of belt.
+<br><br>6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the cut edge. Carefully burn off frayed edge of belt.
 
 ![Fig8](../assets/instructions/fig8.png)
 
 
-7. Sew the open side of the exterior belt making sure not to sew the side edge of the internal belt 	as well. **It is very important that the internal belt remains free to move.**
+<br><br>7. Sew the open side of the exterior belt taking care to **not** sew the side edge of the internal belt as well. **It is very important that the internal belt remains free to move. Please ensure this is the case after sewing both sides of the outer strap.**
 
 <p align="center">
   <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
 </p>
 
-8. Insert only the internal belt through the slot in the 3d-printed windlass rod.
+<br><br>8. Insert only the internal belt through the slot in the 3d-printed windlass rod.
 
 <p align="center">
 <img src="../assets/instructions/fig10.jpg" width="600" height="600" alt="Fig10">
 </p>
 
-9. Then insert the internal and external belts through the slot on the back plate, ensuring the 	orientation of the back plate is correct as in the photo below.
+<br><br>9. Then insert the internal and external belts through the slot on the back plate, ensuring the orientation of the back plate is correct as in the photo below.
 
 <p align="center">
 <img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
 </p>
 
-10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
+<br><br>10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate. 
+<br><br>*This gives enough slack in the internal belt so that the windlass can begin turning without difficulty, which is very important in an emergency situation. Too much slack could also result in lost time as the windlass will need to be turned more in order to start limiting blood flow.*
 
 <p align="center">
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
 </p>
 
-11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate.
+<br><br>11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate.
+<br><br>**It is very important for both inner and outer straps to be put through the buckle slot together, folded and then sewn together, as this creates more strength in the internal belt to be able to withstand the force necessary for the tourniquet to work. Always ensure this is the case with each tourniquet produced.**
 
 |![Fig13](../assets/instructions/fig13.png)|![Fig14](../assets/instructions/fig14.png)|
 |:--------------------------------------|:-------------------------|
 
 
-12. Position edge of back plate under the piece of hook by 15 mm.
+<br><br>12. Position edge of back plate under the piece of hook by 15 mm.
 
-![Fig15](../assets/instructions/fig15.jpg)
+![Fig15](../assets/instructions/fig15.png)
 
 
-13. Punch two holes through the external belt only (avoid the internal belt) where the holes are 	located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the 	back plate to the belt.
+<br><br>13. Punch two holes through the external belt only (avoid the internal belt) where the holes are 	located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the back plate to the belt.
+<br><br>**Please ensure that the rivets are not loose and that there is no play of movement in the plate and strap. Also, if the rivets are fastened with too much pressure, it can cause the plate to crack. This will result in needing to replace the back plate.**
 
 |![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
 |:--------------------------------------|:-------------------------|
 
 
-14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward 	the long end of the belt, capped end toward the buckle. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
+<br><br>14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, capped end toward the buckle. *This is so that the windlass can be easily locked in place without undue pressure on the clip.*
+<br><br>Slide the 3D printed clip onto the belt by putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along length of belt until it reaches the back plate and the belt is taught.
 
 |![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
 |:--------------------------------------|:-------------------------|
 
 
-15. To sew the Hoop and Loop assembly to be adhered to the clip, sew the end of the white non-adhesive Loop (face down) to the centre point of adhesive Hook (face up / black in the photo below).
+<br><br>15. To sew the Hoop and Loop assembly to be adhered to the clip, sew the end of the white non-adhesive Loop (face down) to the centre point of adhesive Hook (face up / black in the photo below).
 
 ![Fig20](../assets/instructions/fig20.jpg)
 
 
-16. Adhere the Hook to the clip (Hook is black in the photos). Use Cyanoacrylate (Super Glue) to 	permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive 	to stick if clip is printed in PETG. Glue is applied as a dab under the open ends of the clip to 	glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
+<br><br>16. Adhere the Hook to the clip (Hook is black in the photos). Use Cyanoacrylate (Super Glue) to 	permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive 	to stick if clip is printed in PETG. Glue is applied as a dab under the open ends of the clip to 	glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
 
 |![Fig21](../assets/instructions/fig21.png)|![Fig22](../assets/instructions/fig22.png)|
 |:--------------------------------------|:-------------------------|
 
 
-17. To prepare for folding, position the white Loop piece same as in the photos below.
+<br><br>17. To prepare for folding, position the white Loop piece same as in the photos below.
 
 |![Fig23](../assets/instructions/fig23.png)|![Fig24](../assets/instructions/fig24.png)|
 |:--------------------------------------|:-------------------------|
 
 
-18. Completed tourniquet, folded and ready for packaging.
+<br><br>18. Completed tourniquet, folded and ready for packaging.
 
 ![Fig25](../assets/instructions/fig25.jpg)
 
