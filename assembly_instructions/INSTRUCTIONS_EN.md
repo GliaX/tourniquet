@@ -54,7 +54,7 @@ https://github.com/GliaX/tourniquet
 ![Fig8](../assets/instructions/fig8.png)
 
 
-<br><br>7. Sew the open side of the exterior belt taking care to **not** sew the side edge of the internal belt as well. **It is very important that the internal belt remains free to move. Please ensure this is the case after sewing both sides of the outer strap.**
+<br><br>7. Sew the open side of the exterior belt taking care to **not** sew the side edge of the internal belt as well. **It is very important that the internal belt remains free to move. While you are sewing, periodically slide the inner strap back and forth inside the exterior strap pocket to ensure that the inner belt is free.**
 
 <p align="center">
   <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
@@ -73,7 +73,7 @@ https://github.com/GliaX/tourniquet
 </p>
 
 <br><br>10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate. 
-<br><br>*This gives enough slack in the internal belt so that the windlass can begin turning without difficulty, which is very important in an emergency situation. Too much slack could also result in lost time as the windlass will need to be turned more in order to start limiting blood flow.*
+<br><br>**This gives enough slack in the internal belt so that the windlass can begin turning without difficulty, which is very important in an emergency situation. Too much slack could also result in lost time as the windlass will need to be turned more in order to start limiting blood flow.**
 
 <p align="center">
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
@@ -92,13 +92,13 @@ https://github.com/GliaX/tourniquet
 
 
 <br><br>13. Punch two holes through the external belt only (avoid the internal belt) where the holes are 	located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the back plate to the belt.
-<br><br>**Please ensure that the rivets are not loose and that there is no play of movement in the plate and strap. Also, if the rivets are fastened with too much pressure, it can cause the plate to crack. This will result in needing to replace the back plate.**
+<br><br>**Please don't use too much pressure on the rivets so that the back plate cracks, as this will then need replacing. Use just enough pressure to close the rivet so that there is no play of movement between the back plate and the strap.**
 
 |![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
 |:--------------------------------------|:-------------------------|
 
 
-<br><br>14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, capped end toward the buckle. *This is so that the windlass can be easily locked in place without undue pressure on the clip.*
+<br><br>14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, capped end toward the buckle. **This is so that the windlass can be easily locked in place without undue pressure on the clip.**
 <br><br>Slide the 3D printed clip onto the belt by putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along length of belt until it reaches the back plate and the belt is taught.
 
 |![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
