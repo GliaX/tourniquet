@@ -12,3 +12,4 @@ While we are working very hard to prepare this tourniquet for clinical use, we d
   * Buckle: 2 perimeters
   * Holder and rod: 4 perimeters
 * Horizontal shells: Print all parts with 2 top and 2 bottom horizontal shell thickness. Holder and rod should have 4 top and 4 bottom.
+Test..Test
