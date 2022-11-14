@@ -20,6 +20,7 @@ Print the 3MF file, modified to your needs. It's not recommended to edit the mes
   * Buckle: 2 perimeters
   * Holder and rod: 4 perimeters
 * Horizontal shells: Print all parts with 2 top and 2 bottom horizontal shell thickness. Holder and rod should have 4 top and 4 bottom.
+<<<<<<< HEAD
 
 ## Assembly Instructions
 See the assembly instruction manuals in the following languages:
@@ -43,3 +44,6 @@ We have presented injection molding files in the [`injection_molding`](injection
 
 ## License
 See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as Creative Commons By Attribution ShareAlike if desired.
+=======
+Test..Test
+>>>>>>> 75ce518ab1274f604049ab4b78cd17962e8f72c1
