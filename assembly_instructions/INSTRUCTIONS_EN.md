@@ -1,4 +1,4 @@
-# Bill of materials
+# Bill of materials aaa
 
 |Black Non-Adhesive<br>Hook and Loop Tape<br>3.8cm wide (1.5”)<br>for front face<br>of external belt|White Self-Adhesive<br>Hook and Non-<br>Adhesive Loop Tape<br>1.9cm wide (.75”)<br>for clip|Polyester Cotton<br>Webbing Strap<br>3.8cm wide (1.5”),<br>0.5mm thick<br>for back face<br>external belt|Nylon Heavy Webbing<br>Strap **no stretch at all**<br>1.9cm wide (.75”),<br>1mm thick<br>for internal belt|
 |:-------------------------|:-------------------------|:-------------------------|:-------------------------|
@@ -72,7 +72,7 @@ https://github.com/GliaX/tourniquet
 <img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
 </p>
 
-<br><br>10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate. 
+<br><br>10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
 <br><br>**This gives enough slack in the internal belt so that the windlass can begin turning without difficulty, which is very important in an emergency situation. Too much slack could also result in lost time as the windlass will need to be turned more in order to start limiting blood flow.**
 
 <p align="center">
@@ -153,4 +153,3 @@ https://github.com/GliaX/tourniquet
 1(e). Continue with step #6 of the instructions, sewing a box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the 		cut edge. Carefully burn off frayed edge of belt.
 
 1(f). Skip step #7, and continue on with step #8 of the Tourniquet Assembly	Instructions.
-
