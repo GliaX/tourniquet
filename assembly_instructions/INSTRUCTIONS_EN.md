@@ -1,4 +1,4 @@
-# Bill of materials aaa
+# Bill of materials
 
 |Black Non-Adhesive<br>Hook and Loop Tape<br>3.8cm wide (1.5”)<br>for front face<br>of external belt|White Self-Adhesive<br>Hook and Non-<br>Adhesive Loop Tape<br>1.9cm wide (.75”)<br>for clip|Polyester Cotton<br>Webbing Strap<br>3.8cm wide (1.5”),<br>0.5mm thick<br>for back face<br>external belt|Nylon Heavy Webbing<br>Strap **no stretch at all**<br>1.9cm wide (.75”),<br>1mm thick<br>for internal belt|
 |:-------------------------|:-------------------------|:-------------------------|:-------------------------|
