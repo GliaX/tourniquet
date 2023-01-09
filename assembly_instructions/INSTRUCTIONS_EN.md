@@ -1,4 +1,12 @@
 # Bill of materials
+* Black hook and loop tape (Velcro) [3.5-3.85 cm width] for the front face of the belt
+* White hook and loop tape (Velcro) [2 cm width] for the windlass clip strap
+* Polyester cotton webbing strap [3.5-3.85 cm width, ~1.5 mm thickness] for the back face of the belt
+* Nylon heavy-duty non-stretch webbing strap [2.5 cm width, ~1.3 mm thickness] for the internal belt
+* Double cap rivets 7mm head
+* Polyester thread [0.75 mm thickness]
+* Cyanoacrylate glue (Super glue) for ABS or two-part epoxy glue for PETG
+* 3D-Printed components
 
 |Black Non-Adhesive<br>Hook and Loop Tape<br>3.8cm wide (1.5”)<br>for front face<br>of external belt|White Self-Adhesive<br>Hook and Non-<br>Adhesive Loop Tape<br>1.9cm wide (.75”)<br>for clip|Polyester Cotton<br>Webbing Strap<br>3.8cm wide (1.5”),<br>0.5mm thick<br>for back face<br>external belt|Nylon Heavy Webbing<br>Strap **no stretch at all**<br>1.9cm wide (.75”),<br>1mm thick<br>for internal belt|
 |:-------------------------|:-------------------------|:-------------------------|:-------------------------|
@@ -12,8 +20,13 @@
 <br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
 https://github.com/GliaX/tourniquet
 
+![Fig1](../assets/instructions/fig1.jpg)
+<br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
+https://github.com/GliaX/tourniquet
+
 <br><br>
 # Assembly instructions
+1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 
 |Material|Quantity|Length|
@@ -52,6 +65,7 @@ https://github.com/GliaX/tourniquet
 <br><br>6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the cut edge. Carefully burn off frayed edge of belt.
 
 ![Fig8](../assets/instructions/fig8.png)
+|:--------------------------------------|:-------------------------|
 
 
 <br><br>7. Sew the open side of the exterior belt taking care to **not** sew the side edge of the internal belt as well. **It is very important that the internal belt remains free to move. While you are sewing, periodically slide the inner strap back and forth inside the exterior strap pocket to ensure that the inner belt is free.**
@@ -67,6 +81,8 @@ https://github.com/GliaX/tourniquet
 </p>
 
 <br><br>9. Then insert the internal and external belts through the slot on the back plate, ensuring the orientation of the back plate is correct as in the photo below.
+  <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
+</p>
 
 <p align="center">
 <img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
@@ -74,6 +90,7 @@ https://github.com/GliaX/tourniquet
 
 <br><br>10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
 <br><br>**This gives enough slack in the internal belt so that the windlass can begin turning without difficulty, which is very important in an emergency situation. Too much slack could also result in lost time as the windlass will need to be turned more in order to start limiting blood flow.**
+</p>
 
 <p align="center">
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
@@ -126,6 +143,27 @@ https://github.com/GliaX/tourniquet
 
 ![Fig25](../assets/instructions/fig25.jpg)
 
+15. To sew the Hoop and Loop assembly to be adhered to the clip, sew the end of the white non-adhesive Loop (face down) to the centre point of adhesive Hook (face up / black in the photo below).
+
+![Fig20](../assets/instructions/fig20.jpg)
+
+
+16. Adhere the Hook to the clip (Hook is black in the photos). Use Cyanoacrylate (Super Glue) to 	permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive 	to stick if clip is printed in PETG. Glue is applied as a dab under the open ends of the clip to 	glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
+
+|![Fig21](../assets/instructions/fig21.png)|![Fig22](../assets/instructions/fig22.png)|
+|:--------------------------------------|:-------------------------|
+
+
+17. To prepare for folding, position the white Loop piece same as in the photos below.
+
+|![Fig23](../assets/instructions/fig23.png)|![Fig24](../assets/instructions/fig24.png)|
+|:--------------------------------------|:-------------------------|
+
+
+18. Completed tourniquet, folded and ready for packaging.
+
+![Fig25](../assets/instructions/fig25.jpg)
+
 
 * Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
 # Troubleshooting
@@ -153,3 +191,4 @@ https://github.com/GliaX/tourniquet
 1(e). Continue with step #6 of the instructions, sewing a box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the 		cut edge. Carefully burn off frayed edge of belt.
 
 1(f). Skip step #7, and continue on with step #8 of the Tourniquet Assembly	Instructions.
+
