@@ -1,12 +1,4 @@
 # Bill of materials
-* Black hook and loop tape (Velcro) [3.5-3.85 cm width] for the front face of the belt
-* White hook and loop tape (Velcro) [2 cm width] for the windlass clip strap
-* Polyester cotton webbing strap [3.5-3.85 cm width, ~1.5 mm thickness] for the back face of the belt
-* Nylon heavy-duty non-stretch webbing strap [2.5 cm width, ~1.3 mm thickness] for the internal belt
-* Double cap rivets 7mm head
-* Polyester thread [0.75 mm thickness]
-* Cyanoacrylate glue (Super glue) for ABS or two-part epoxy glue for PETG
-* 3D-Printed components
 
 |Black Non-Adhesive<br>Hook and Loop Tape<br>3.8cm wide (1.5”)<br>for front face<br>of external belt|White Self-Adhesive<br>Hook and Non-<br>Adhesive Loop Tape<br>1.9cm wide (.75”)<br>for clip|Polyester Cotton<br>Webbing Strap<br>3.8cm wide (1.5”),<br>0.5mm thick<br>for back face<br>external belt|Nylon Heavy Webbing<br>Strap **no stretch at all**<br>1.9cm wide (.75”),<br>1mm thick<br>for internal belt|
 |:-------------------------|:-------------------------|:-------------------------|:-------------------------|
@@ -20,13 +12,8 @@
 <br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
 https://github.com/GliaX/tourniquet
 
-![Fig1](../assets/instructions/fig1.jpg)
-<br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
-https://github.com/GliaX/tourniquet
-
 <br><br>
 # Assembly instructions
-1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 
 |Material|Quantity|Length|
