@@ -13,7 +13,7 @@
 <br>Instructions and details for printing plastic parts for this tourniquet is on Glia’s GitHub site at:
 https://github.com/GliaX/tourniquet
 
-# Assembly instructions
+# Assembly Instructions
 1. Cut all the strapping, hook and loop to the required lengths specified in the table below:
 
 |Material|Quantity|Length|
@@ -68,7 +68,7 @@ https://github.com/GliaX/tourniquet
 <img src="../assets/instructions/fig10.jpg" width="600" height="600" alt="Fig10">
 </p>
 
-9. Then insert the internal and external belts through the slot on the back plate, ensuring the orientation of the back plate is correct as in the photo below.
+9. Then insert the internal and external belts through the slot on the back plate, ensuring the orientation of the back plate is 15mm under the 15cm hook piece (see photo at step 12).
 
 <p align="center">
 <img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
@@ -80,7 +80,7 @@ https://github.com/GliaX/tourniquet
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
 </p>
 
-11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate. **Back plate should be positioned 15mm under the 15cm hook piece (see 12 below).**
+11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate. **Back plate should be positioned 15mm under the 15cm hook piece (see step 12).**
 
 |![Fig13](../assets/instructions/fig13.png)|![Fig14](../assets/instructions/fig14.png)|
 |:--------------------------------------|:-------------------------|
@@ -91,13 +91,13 @@ https://github.com/GliaX/tourniquet
 |![Fig15](../assets/instructions/fig15.png)|
 |:-------------------------|
 
-13. Punch two holes through the external belt only (avoid the internal belt) where the holes are located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the back plate to the belt.
+13. Punch two holes through the external belt only **(avoid the internal belt)** where the holes are located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the back plate to the belt.
 
 |![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
 |:--------------------------------------|:-------------------------|
 
 
-14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, capped end toward the buckle. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
+14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, **capped end toward the buckle**. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
 
 |![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
 |:--------------------------------------|:-------------------------|
@@ -109,7 +109,7 @@ https://github.com/GliaX/tourniquet
 <img src="../assets/instructions/fig20.jpg" width="600" height="700" alt="Fig20">
 </p>
 
-16. Adhere the Hook to the clip (Hook is black in the photos). Use Cyanoacrylate (Super Glue) to permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive to stick if clip is printed in PETG. Glue is applied as a dab under the open ends of the clip to glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
+16. Adhere the Hook to the clip (Hook is black in the photos). **Use Cyanoacrylate (Super Glue) to permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive to stick if clip is printed in PETG.** Glue is applied as a dab under the open ends of the clip to glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
 
 |![Fig21](../assets/instructions/fig21.png)|![Fig22](../assets/instructions/fig22.png)|
 |:--------------------------------------|:-------------------------|
@@ -126,16 +126,20 @@ https://github.com/GliaX/tourniquet
 |![Fig25](../assets/instructions/fig25.jpg)|
 |:-------------------------|
 
-* Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).
+*Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).*
 
 # Troubleshooting
-<p>
-1. If you find it hard to sew the velcro tapes together, you can first stick them onto a long piece of masking tape, then sew, then rip off the masking tape.
+1. If you find it difficult to sew the velcro tapes together, first stick them onto a long piece of masking tape, then sew. Rip off the masking tape when done.  
 
+2. Always make sure the internal belt is free to move after anchoring it at both ends. When turning the windlass, the internal belt should tighten.
+
+3. The rivets should only be through the outer strapping. Make sure they are not through, or pinching, the internal belt.
+  
+4. Make sure the capped end of the clip is facing toward the buckle. This helps secure the windlass in place once it is turned to the appropriate tightness.
 # Addendum
+1) **Alternative Inner Belt Insertion**
 <p>
-1. **Alternative Inner Belt Insertion**
-<br><br>*An alternative method of inserting the internal belt into the external belt (covering steps #4, 5, 6 and 7 in the Tourniquet Assembly Instructions).*
+*An alternative method of inserting the internal belt into the external belt (covering steps #4, 5, 6 and 7 in the Tourniquet Assembly Instructions).*
 
 1(a). Sew the Hook and Loop belt to the 4cm external strapping down both long sides leaving both short ends open. This creates a tube in which the internal belt can be inserted into.
 
