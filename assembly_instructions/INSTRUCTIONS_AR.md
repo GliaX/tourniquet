@@ -25,19 +25,31 @@
  * حزام سميك من النايلون (قطعة واحدة بطول 97 سم).
 
 ![Figure 1](../assets/instructions/figure1.jpg)
+![Illustration 1](../assets/instructions/illustration1.jpg)
 
 2. لتشكيل الجزء الأمامي من الحزام، قم بخياطة أشرطة اللصق الذاتي (فلكرو) السوداء التي أعدتها مع بعضها البعض بالتسلسل التالي[ 6 سم ناعم، 6 سم خشن، 12.5 سم ناعم، 6 سم خشن، 12.5 سم ناعم، 6 سم خشن، 19 سم ناعم، 15 سم خشن ].
 مع الأخذ بالحسبان ضرورة تكرار عملية الخياطة لتقوية الحزام وتكون عملية دمج القطع ببعضها من خلال جعل طرف كل قطعة فوق طرف القطعة التي تليها لتسهيل عملية شد الحزام.
 
-![Figure 2](../assets/instructions/figure2.jpg)
+![Illustration 2](../assets/instructions/illustration2.jpg)
+![Illustration 3](../assets/instructions/illustration3.jpg)
 
 3. قم بخياطة الجزء الأمامي من الحزام مع الجزء الخلفي من جانب واحد فقط، اترك الجانب الآخر مفتوحاً لإدخال الحزام الداخلي.
 
+![Illustration 4](../assets/instructions/illustration4.jpg)
+
 4. قم بإدخال الحزام الداخلي بين الجزء الأمامي والجزء الخلفي من الحزام ثم قم بخياطة طرف الحزام مع الحزامين الأمامي والخلفي ثم كرر هذه العملية أكثر من مرة بحيث تكون الخياطة بشكل متعرج (zig-zag) وحتى 5 سم من طرف الحزام.
+
+![Illustration 5](../assets/instructions/illustration5.jpg)
+![Illustration 6](../assets/instructions/illustration6.jpg)
+![Illustration 7](../assets/instructions/illustration7.jpg)
 
 5. قم بخياطة الجزء الأمامي من الحزام مع الجزء الخلفي من الجانب الآخر مع الأخذ بالحسبان أن يكون الحزام الداخلي بعيداً عن منطقة الخياطة ليبقى حر الحركة.
 
+![Illustration 8](../assets/instructions/illustration8.jpg)
+
 6. اثقب فتحتين في الطرف العلوي من وجه الحزام.
+
+![Illustration 9](../assets/instructions/illustration9.jpg)
 
 7.  استخدم البرشام لتثبيت الشريحة الداعمة مع الحزام من خلال الثقوب.
 
