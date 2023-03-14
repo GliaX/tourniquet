@@ -23,18 +23,30 @@
  * Sangle en nylon épais (une pièce de 97 cm)
 
 ![Figure 1](../assets/instructions/figure1.jpg)
+![Illustration 1](../assets/instructions/illustration1.jpg)
 
-2. Pour la face avant de la ceinture, cousez les morceaux de crochet et de boucle (Velcro) ensemble dans l'ordre [boucle de 6 cm, crochet de 6 cm, boucle de 12,5 cm, crochet de 6 cm, boucle de 12,5 cm, crochet de 6 cm, boucle de 19 cm, crochet de 15 cm]. Superposez chaque pièce de 5 mm et cousez sur chaque joint de connexion en deux passes pour une résistance à la traction accrue.
+2. Pour la face avant de la ceinture, cousez les morceaux de crochet et de boucle (Velcro) ensemble dans l'ordre [boucle de 6 cm, crochet de 6 cm, boucle de 12,5 cm, crochet de 6 cm, boucle de 12,5 cm, crochet de 6 cm, boucle de 19 cm, crochet de 15 cm]. Superposez chaque pièce de 1 cm et cousez sur chaque joint de connexion en deux passes pour une résistance à la traction accrue.
 
-![Figure 2](../assets/instructions/figure2.jpg)
+![Illustration 2](../assets/instructions/illustration2.jpg)
+![Illustration 3](../assets/instructions/illustration3.jpg)
 
 3. Cousez le crochet et la boucle (Velcro) sur le morceau de sangle pour la face arrière. Cousez les deux ensembles sur toute la longueur d'un côté. Laissez l'autre côté et les extrémités ouvertes pour insérer la ceinture interne.
 
+![Illustration 4](../assets/instructions/illustration4.jpg)
+
 4. Placez la ceinture interne entre la sangle auto-agrippante (Velcro) et la face arrière. Amenez la pointe des trois pièces au ras d'une extrémité. Cousez sur la largeur à 3 cm de l'extrémité pour que la ceinture interne soit ancrée aux deux pièces externes. Cousez un motif en « X » du point précédent à 3 cm jusqu'à un point à 5 cm.
+
+![Illustration 5](../assets/instructions/illustration5.jpg)
+![Illustration 6](../assets/instructions/illustration6.jpg)
+![Illustration 7](../assets/instructions/illustration7.jpg)
 
 5. Coupez la pointe en forme arrondie et cousez la ceinture fermée sur toute la longueur. Lors de la couture des deux faces extérieures, il est très important que la ceinture intérieure reste libre de ses mouvements et ne soit pas coincée le long des coutures latérales.
 
+![Illustration 8](../assets/instructions/illustration8.jpg)
+
 6. Percez ou cognez deux trous à travers l'ensemble de la ceinture à l'extrémité d'une pièce de crochet et de boucle (Velcro) de 15 cm pour monter la plaque de support imprimée en 3d. La sangle auto-agrippante (Velcro) se chevauchera sur la plaque de support de 15 mm.
+
+![Illustration 9](../assets/instructions/illustration9.jpg)
 
 7. Utilisez un rivet à double capuchon pour fixer la plaque de support à la ceinture à travers les deux trous.
 
