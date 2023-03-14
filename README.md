@@ -17,19 +17,19 @@ Print the 3MF file, modified to your needs. It's not recommended to edit the mes
 
 ### Settings Per Part:
 * backing_support:
-  * No support
+  * supports
   * 4 perimeter shells/walls
   * 2 bottom/top shells/walls
 * buckle:
-  * Supports
+  * supports
   * 2 perimeter shells/walls
   * 2 bottom/top shells/walls
 * clip:
-  * No supports
+  * supports
   * 4 permiter shells/walls
   * 4 bottom/top shells/walls
 * windlass:
-  * Supports
+  * supports
   * 4 permiter shells/walls
   * 4 bottom/top shells/walls
 
