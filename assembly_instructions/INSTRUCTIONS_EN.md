@@ -52,7 +52,9 @@ https://github.com/GliaX/tourniquet
 
 5. Insert the internal belt between the front and back of the external belt, and then sew across the internal and external belts with a straight stitch 3 cm from the end with the small 6 cm Loop 	piece, anchoring the internal belt between both sides of the external belt.
 
-![Fig6](../assets/instructions/fig6.png)|![Fig7](../assets/instructions/fig7.png)
+![Fig6](../assets/instructions/fig6.png)
+![Illustration 5](../assets/instructions/illustration5.jpg)
+![Fig7](../assets/instructions/fig7.png)
 ![Illustration 6](../assets/instructions/illustration6.jpg)
 
 6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and 	sew around the cut edge. Carefully burn off frayed edge of belt.
