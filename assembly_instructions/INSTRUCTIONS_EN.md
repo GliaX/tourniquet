@@ -27,8 +27,12 @@ https://github.com/GliaX/tourniquet
 |Nylon Heavy Webbing Strap 2 cm wide|1|95cm|
 |White Adhesive Hook 2 cm wide|1|16cm|
 |Non-Adhesive Loop 2 cm wide|1|17cm|
-
-<br>
+![Illustration 1](../assets/instructions/illustration1.jpg)
+<p>
+<p>
+*Please keep in mind, the Polyester Cotton Webbing Strap in the above graphic, is actually the Polyester Grosgrain Ribbon in the table above the graphic. It's referenced at the lengths in the table due to the Canada office wanting zero waste of the strapping, or as little as possible. The graphic has both inner and outer strapping at 97cm, which works, but may have some excess strap to trim. it's probably safer to start with 97cm for initial device.*
+<p>
+<p>
 2. For the front face of the belt, begin by placing the Hook and Loop in order of how they will be sewn together. The first piece to sew is the 6cm Loop to the 6cm Hook at the rounded end of the belt.
 
 |![Fig2](../assets/instructions/fig2.png)|
@@ -36,25 +40,28 @@ https://github.com/GliaX/tourniquet
 
 3. Sew pieces together sequentially in a cascading pattern by placing the edge of each piece above the edge of the next piece and then sewing across them along the seam a couple of times with a zigzag stitch. This type of assembly increases tensile strength, and facilitates a smooth pull through the buckle.
 
-|![Fig3](../assets/instructions/fig3.png)|
-|:-------------------------|
+![Fig3](../assets/instructions/fig3.png)
+![Illustration 2](../assets/instructions/illustration2.jpg)
+![Illustration 3](../assets/instructions/illustration3.jpg)
 
 4. Sew the polyester grosgrain strap (3.8cm wide) to the Hook and Loop assembly just sewn, making sure that the Hook and Loop is facing outward. Sew one long side only and leave the other side free to insert the internal belt. (For alternative method of inserting internal belt, please see Addendum at the bottom of these Tourniquet Assembly Instructions.)
 
-|![Fig4](../assets/instructions/fig4.jpg)|![Fig5](../assets/instructions/fig5.jpg)|
-|:--------------------------------------|:-------------------------|
-
+![Fig4](../assets/instructions/fig4.jpg)
+![Fig5](../assets/instructions/fig5.jpg)
+![Illustration 4](../assets/instructions/illustration4.jpg)
 
 5. Insert the internal belt between the front and back of the external belt, and then sew across the internal and external belts with a straight stitch 3 cm from the end with the small 6 cm Loop 	piece, anchoring the internal belt between both sides of the external belt.
 
-|![Fig6](../assets/instructions/fig6.png)|![Fig7](../assets/instructions/fig7.png)|
-|:--------------------------------------|:-------------------------|
-
+![Fig6](../assets/instructions/fig6.png)
+![Illustration 5](../assets/instructions/illustration5.jpg)
+![Fig7](../assets/instructions/fig7.png)
+![Illustration 6](../assets/instructions/illustration6.jpg)
 
 6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and 	sew around the cut edge. Carefully burn off frayed edge of belt.
 
-|![Fig8](../assets/instructions/fig8.png)|
-|:-------------------------|
+![Fig8](../assets/instructions/fig8.png)
+![Illustration 7](../assets/instructions/illustration7.jpg)
+![Illustration 8](../assets/instructions/illustration8.jpg)
 
 7. Sew the open side of the exterior belt making sure not to sew the side edge of the internal belt as well. **It is very important that the internal belt remains free to move.**
 
@@ -121,7 +128,7 @@ https://github.com/GliaX/tourniquet
 |:--------------------------------------|:-------------------------|
 
 
-18. Completed tourniquet, folded and ready for packaging.
+18. Completed tourniquet, folded and ready for packaging. See folding video [here](https://www.youtube.com/watch?v=CSECJQPJmLw)
 
 |![Fig25](../assets/instructions/fig25.jpg)|
 |:-------------------------|
