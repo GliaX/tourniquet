@@ -30,14 +30,14 @@ We're printing our molds in Siraya Tech Ultra White on the Anycubic Photon Mono 
 Resin printing is a messy and toxic process, the first steps are to make sure you're safe. Wear nitrile gloves, safety glasses and a respirator or mask. Do not get any of the resin on your skin. Process any trash from the printing by hardening everything using a UV flashlight (wear UV safety glasses when doing this). Do not touch, sniff, throw away uncured parts or supports. Clean any spill with isopropyl alcohol. 
 ### Settings
 We're printing with the following settings: 
-![Illustration 1](../assets/settings.png)
+![Illustration 1](./assets/settings.png)
 
 ### Print orientation
 We're printing the molds standing up, off the baseplate, on supports. We've tried other orientations that provide a shorter print, but we encountered issues with the peel forces being too great and ruining it. We angle the print away by 2 - 3 degrees, so the supports don't touch the surface, requiring sanding.  
 
 ### Presupporting the file
 We use two slicers to prepare files for print. We use PrusaSlicer for its autosupport feature and better supports, then we export the plate with supports and slice the file using Lychee. We need to add more supports on the bottom in PrusaSlicer, see a sample density in the pic below. Otherwise the print falls of the plate under the peel forces / its own weight. We tend to oversupport the print to avoid losing resin in a failure. 
-![Illustration 2](../assets/density.png)
+![Illustration 2](./assets/density.png)
 
 ### Tolerances
 Some files might require sanding and fitting. You should be able to open the empty molds without any issue / them getting stuck. 
