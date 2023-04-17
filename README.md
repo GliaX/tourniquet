@@ -50,6 +50,8 @@ The tourniquet should be packaged in clear, thin plastic such as PVC wrap to pre
 
 ## Injection molding - WARNING
 We have presented injection molding files in the [`injection_molding`](injection_molding) folder. The injection molded tourniquet has not yet been deployed and is in the process of being tested at this time. Follow best practices for injection molding and assemble parts as above.
+The "desktop_injection" folder is highly experimental and not deployed yet. We give no guarantees to the mold's correct behavior. 
+
 
 ## License
 See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as Creative Commons By Attribution ShareAlike if desired.
