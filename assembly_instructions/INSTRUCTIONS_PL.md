@@ -1,6 +1,6 @@
 # Lista materiałów
 
-|Czarna taśma rzepowa<br>NIE SAMOPRZYLEPNA<br>o szerokości 3,8cm<br>na przednią część<br>paska zewnętrznego|Biała taśma rzepowa<br>SAMOPRZYLEPNA "pętelka"<br>i NIESAMOPRZYLEPNA "haczyk"<br>o szerokości 1,9cm<br>na zaczep|Czarna taśma rypsowa<br>Strap<br>o szerokości 3,8cm (1.5”),<br>i grubości 0,5mm<br>na tylną część<br>paska zewnętrznego|Wojskowa taśma poliamidowa<br>NIEROZCIĄGLIWA<br>o szerokości 1,9cm,<br>i grubości 1mm<br>na pasek wewnętrzny|
+|Czarna taśma rzepowa<br>NIESAMOPRZYLEPNA<br>o szerokości 3,8cm<br>na przednią część<br>paska zewnętrznego|Biała taśma rzepowa<br>SAMOPRZYLEPNA "pętelka"<br>i NIESAMOPRZYLEPNA "haczyk"<br>o szerokości 1,9cm<br>na zaczep|Czarna taśma rypsowa<br>o szerokości 3,8cm<br>i grubości 0,5mm<br>na tylną część<br>paska zewnętrznego|Wojskowa taśma poliamidowa<br>NIEROZCIĄGLIWA<br>o szerokości 1,9cm,<br>i grubości 1mm<br>na pasek wewnętrzny|
 |:-------------------------|:-------------------------|:-------------------------|:-------------------------|
 |![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)|![White self-adhesive hook and loop tape](../assets/instructions/part2.jpg)|![Polyester grosgrain strap](../assets/instructions/part3.jpg)|![Nylon heavy webbing strap](../assets/instructions/part4.jpg)|
 
@@ -15,7 +15,7 @@ https://github.com/GliaX/tourniquet
 
 UWAGI:
 
-1. Dla ścisłośni instrukcji wyjaśniamy, że taśma rzepowa składa się z dwóch części. Sztywną i szorstką nazywamy "haczykiem", a miękką i pokrytą meszkiem nazywamy "pętelką". Rozróżnienie to jest bardzo ważne do prawidłowego przycięcia długości pasków.
+1. Dla ścisłości instrukcji wyjaśniamy, że taśma rzepowa składa się z dwóch części. Sztywną i szorstką nazywamy "haczykiem", a miękką i pokrytą meszkiem nazywamy "pętelką". Rozróżnienie to jest bardzo ważne do prawidłowego przycięcia długości pasków.
 2. Wahania szerokości pasków o 1-2mm nie mają znaczenia jeśli tylko paski zewnętrzne (rzepowy i rypsowy) nie mają większej szerokości niż 4cm i pasek wewnętrzny nie większą szerokość niż 25mm.
 
 
@@ -36,7 +36,7 @@ UWAGI:
 ![Illustration 1](../assets/instructions/illustration1.jpg)
 <p>
 <p>
-*Na rysunku oznaczone są: Loop ("pętelka"), Hook ("haczyk"), Nylon Heavy Webbing strap (wojskowa taśma poliamidowa), Polyester Cotton Webbing Strap (taśma rypsowa). Długości dwóch ostatnich ustalone są na 97cm (niezgodnie z tabelą). Jest to zabieg celowy zwiącany z tym, że kanadyjski oddział Glii stara się produkować swoje paski w myśl idei zero waste. Długości zaznaczone w tabeli pozwalają uszyć pasek pozostawiając mniej ścinków, które potem trzeba wyrzucić. Na początku można jednak zacząć od dłuższych pasków o długości 97cm, gdyż będą one łatwiejsze do uszycia.*
+*Na rysunku oznaczone są: Loop ("pętelka"), Hook ("haczyk"), Nylon Heavy Webbing Strap (wojskowa taśma poliamidowa), Polyester Cotton Webbing Strap (taśma rypsowa). Długości dwóch ostatnich ustalone są na 97cm (niezgodnie z tabelą). Jest to zabieg celowy zwiącany z tym, że kanadyjski oddział Glii stara się produkować swoje paski w myśl idei zero waste. Długości zaznaczone w tabeli pozwalają uszyć pasek pozostawiając mniej ścinków, które potem trzeba wyrzucić. Na początku można jednak zacząć od dłuższych pasków o długości 97cm, gdyż będą one łatwiejsze do uszycia.*
 <p>
 <p>
 2. Aby uszyć przednią część paska zewnętrznego, najpierw ułóż przycięte paski według długości kolejno: 6cm "pętelka", 6cm "haczyk", 12,5cm "pętelka", 6cm "haczyk", 12,5cm "pętelka", 6cm "haczyk", 9cm "pętelka" i 15cm "haczyk". Kolejność ułożenia pasków pokazana jest na zdjęciu, pierwszy kawałek do zszycia to 6cm "pętelki" i 6cm "haczyka".   
