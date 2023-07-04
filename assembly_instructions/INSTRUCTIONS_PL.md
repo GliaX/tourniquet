@@ -110,14 +110,13 @@ UWAGI:
 |:--------------------------------------|:-------------------------|
 
 
-14. Załóż klip na pasek. 
-15.  Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, **capped end toward the buckle**. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
+14. Załóż klip na pasek. Klip jest usytuowany w taki sposób, że jego otwarta część zawsze skierowana jest w stronę dłuższego końca paska **a druga strona z pokrywką skierowana jest w stronę klamerki**. Przełóż pasek przez wydrukowany 3D klip w dół otworu 1 (slot1) i w górę otworu 2 (slot2), jak na zdjęciu poniżej. Przeciągnij klip przez całą długość paska aż oprze się o płytkę.
 
 |![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
 |:--------------------------------------|:-------------------------|
 
 
-15. To sew the Hoop and Loop assembly to be adhered to the clip, sew the end of the white non-adhesive Loop (face down) to the centre point of adhesive Hook (face up / black in the photo below).
+15. Aby uszyć zaczep na drążek, weź pozostałe kawałki węższego rzepa 1,9cm i przyszyj jeden z końców białego niesamoprzylepnego rzepa "pętelki" do punktu na środku samoprzylepnego czarnego rzepa "haczyka" (czepliwa strona obu rzepów musi być skierowana w górę, jak na zdjęciu poniżej).
 
 <p align="center">
 <img src="../assets/instructions/fig20.jpg" width="600" height="700" alt="Fig20">
