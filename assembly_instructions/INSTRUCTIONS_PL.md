@@ -122,33 +122,34 @@ UWAGI:
 <img src="../assets/instructions/fig20.jpg" width="600" height="700" alt="Fig20">
 </p>
 
-16. Adhere the Hook to the clip (Hook is black in the photos). **Use Cyanoacrylate (Super Glue) to permanently stick this piece onto clip if clip is printed with ABS. Use 90 second epoxy adhesive to stick if clip is printed in PETG.** Glue is applied as a dab under the open ends of the clip to glue the folded over ends of the Hook piece. Loop piece is free to wrap over top.
+16. Przyklej zaczep do klipu w taki sposób, by czarny rzep "haczyk" oplatał go całkowicie dookoła i zawijał się do spodu. **Użyj cyjanoakrylatu jeśli klip został wydrukowany z ABS i żywicy dwuskładnikowej, jeśli klip został wydrukowany z PETG** Klej należy nałożyć w niewielkiej ilości od spodu pałąka i następnie zawinąć wolne końce rzepu "haczyka". Rzep "pętelka" pozostaje wolny, tak by dało się go swobownie owinąć na pałąku klipa.
 
 |![Fig21](../assets/instructions/fig21.png)|![Fig22](../assets/instructions/fig22.png)|
 |:--------------------------------------|:-------------------------|
 
 
-17. To prepare for folding, position the white Loop piece same as in the photos below.
+17. Aby przygotować opaskę do składania, usytuuj biały rzep "pętelkę" jak na zdjęciu poniżej.
 
 |![Fig23](../assets/instructions/fig23.png)|![Fig24](../assets/instructions/fig24.png)|
 |:--------------------------------------|:-------------------------|
 
 
-18. Completed tourniquet, folded and ready for packaging. See folding video [here](https://www.youtube.com/watch?v=CSECJQPJmLw)
+18. Gotowa opaska uciskowa, złożona i gotowa do pakowania. Zobacz nagranie z instrukcją składania [tutaj](https://www.youtube.com/watch?v=CSECJQPJmLw)
 
 |![Fig25](../assets/instructions/fig25.jpg)|
 |:-------------------------|
 
-*Note: You can use one Omni tape for the long belt instead of using separate parts of hook and loop (Velcro).*
+*Uwaga: Podczas szycia paska zamiast naprzemiennego szycia kawałków "haczyków" i "pętelek" możesz użyć paska Omnitape, czyli rzepu, który na jednej stronie ma zarówno haczyki i pętelki przez co potrafi się przyczepić sam do siebie.*
 
-# Troubleshooting
-1. If you find it difficult to sew the velcro tapes together, first stick them onto a long piece of masking tape, then sew. Rip off the masking tape when done.  
+# Rozwiązywanie problemów
+1. Jeśli masz problem ze zszywaniem razem pasków rzepa, spróbuj najpierw 
+2.  If you find it difficult to sew the velcro tapes together, first stick them onto a long piece of masking tape, then sew. Rip off the masking tape when done.  
 
-2. Always make sure the internal belt is free to move after anchoring it at both ends. When turning the windlass, the internal belt should tighten.
+3. Always make sure the internal belt is free to move after anchoring it at both ends. When turning the windlass, the internal belt should tighten.
 
-3. The rivets should only be through the outer strapping. Make sure they are not through, or pinching, the internal belt.
+4. The rivets should only be through the outer strapping. Make sure they are not through, or pinching, the internal belt.
   
-4. Make sure the capped end of the clip is facing toward the buckle. This helps secure the windlass in place once it is turned to the appropriate tightness.
+5. Make sure the capped end of the clip is facing toward the buckle. This helps secure the windlass in place once it is turned to the appropriate tightness.
 # Addendum
 1) **Alternative Inner Belt Insertion**
 <p>
