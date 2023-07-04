@@ -63,54 +63,55 @@ UWAGI:
 ![Fig7](../assets/instructions/fig7.png)
 ![Illustration 6](../assets/instructions/illustration6.jpg)
 
-6. Sew box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and 	sew around the cut edge. Carefully burn off frayed edge of belt.
+6. Naszyj wzmacniający ścieg w kształcie prostokąta z iksem około 5cm od krawędzi paska (2cm od właśnie przeszytego ściegu w poprzek), następnie przytnij krawędź na okrągło i wykończ zapalniczką ostrożnie przypalając postrzępione nitki.
 
 ![Fig8](../assets/instructions/fig8.png)
 ![Illustration 7](../assets/instructions/illustration7.jpg)
 ![Illustration 8](../assets/instructions/illustration8.jpg)
 
-7. Sew the open side of the exterior belt making sure not to sew the side edge of the internal belt as well. **It is very important that the internal belt remains free to move.**
+7. Zaszyj otwartą częśc paska uważając, by w trakcie tej czynności nie przeszyć paska wewnętrznego **Pasek wewnętrzy bezwzględnie musi pozostać ruchomy!**
 
 <p align="center">
 <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
 </p>
 
-8. Insert only the internal belt through the slot in the 3d-printed windlass rod.
+8. Przełóż sam wewnętrzny pasek przez otwór w wydrukowanym 3D drążku.
 
 <p align="center">
 <img src="../assets/instructions/fig10.jpg" width="600" height="600" alt="Fig10">
 </p>
 
-9. Then insert the internal and external belts through the slot on the back plate, ensuring the orientation of the back plate is 15mm under the 15cm hook piece (see photo at step 12).
+9. Następnie przełóż zewnętrzny i wewnętrzny pasek przez otwór w płytce, upewniając się, że płytka umiejscowiona jest 15mm pod kawałkiem "haczyka" o długości 15cm (jak na zdjęciu przy punkcie 12. instrukcji)
 
 <p align="center">
 <img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
 </p>
 
-10. With the windlass in place, pull the internal belt up to 25 mm above the backing plate.
+10. Umieść drążek na żeberku płytki i wyciągnij wewnętrzny pasek, tak by wystawał na około 25mm do góry, mierząc od powierzchni płytki.
 
 <p align="center">
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
 </p>
 
-11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate. **Back plate should be positioned 15mm under the 15cm hook piece (see step 12).**
+11. Wolne końce pasków (wewnętrznego i zewnętrznego) przeciągnij przez otwór wydrukowanej 3D klamerki pozbawiony "ząbków". Obróć opaskę na drugą stronę i przeszyj paski razem w odległości 35mm od mostka płytki **płytka powinna być usytuowana 15mm pod kawałkiem 15cm rzepu "haczyka" (patrz punkt 12. instrukcji)**
 
 |![Fig13](../assets/instructions/fig13.png)|![Fig14](../assets/instructions/fig14.png)|
 |:--------------------------------------|:-------------------------|
 
+12. Ustaw płytkę pod kawałkiem rzepowego "haczyka" w odległości 15mm od jego krawędzi.
 
-12. Position edge of back plate under the piece of hook by 15 mm.
 
 |![Fig15](../assets/instructions/fig15.png)|
 |:-------------------------|
 
-13. Punch two holes through the external belt only **(avoid the internal belt)** where the holes are located on the back plate to mount it to the belt. Use a 7 mm head double cap rivet to fasten the back plate to the belt.
+13. Przebij dwie dziurki przez sam pasek zewnętrzny **nie naruszaj paska wewnętrznego** w miejscu otworów na płytce. Za pomocą 7mm nitów kaletniczych zamocuj płytkę do paska przez właśnie zrobiony dziurki.
 
 |![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
 |:--------------------------------------|:-------------------------|
 
 
-14. Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, **capped end toward the buckle**. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
+14. Załóż klip na pasek. 
+15.  Put the clip onto the belt. The clip is positioned so that the open end is always pointing toward the long end of the belt, **capped end toward the buckle**. Slide the 3D printed clip onto the belt by 	putting the belt down through slot 1 and up through slot 2, as shown below. Pull the clip along 	length of belt until it reaches the back plate and the belt is taught.
 
 |![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
 |:--------------------------------------|:-------------------------|
