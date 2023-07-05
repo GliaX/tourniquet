@@ -142,36 +142,36 @@ UWAGI:
 *Uwaga: Podczas szycia paska zamiast naprzemiennego szycia kawałków "haczyków" i "pętelek" możesz użyć paska Omnitape, czyli rzepu, który na jednej stronie ma zarówno haczyki i pętelki przez co potrafi się przyczepić sam do siebie.*
 
 # Rozwiązywanie problemów
-1. Jeśli masz problem ze zszywaniem razem pasków rzepa, spróbuj najpierw 
-2.  If you find it difficult to sew the velcro tapes together, first stick them onto a long piece of masking tape, then sew. Rip off the masking tape when done.  
+1. Jeśli masz problem ze zszywaniem razem pasków rzepa, spróbuj najpierw nakleić kawałki na długi kawałek taśmy maskującej, przeszyć je razem i na końcu usunąć taśmę.
 
-3. Always make sure the internal belt is free to move after anchoring it at both ends. When turning the windlass, the internal belt should tighten.
+2. Zawsze upewniaj się, że pasek wewnętrzny może poruszać sie swobodnie wewnątrz opaski po zszyciu obu jej końców. Przy obracaniu drążkiem, pasek wewnętrzny powinien się zacieśniać.
 
-4. The rivets should only be through the outer strapping. Make sure they are not through, or pinching, the internal belt.
+3. Nity kaletnicze powinny przechodzić jedynie przez pasek zewnętrzny. Upewnij się, że nity nie przechodzą przez pasek wewnętrzny ani go nie przyszczypują.
   
-5. Make sure the capped end of the clip is facing toward the buckle. This helps secure the windlass in place once it is turned to the appropriate tightness.
-# Addendum
-1) **Alternative Inner Belt Insertion**
-<p>
-*An alternative method of inserting the internal belt into the external belt (covering steps #4, 5, 6 and 7 in the Tourniquet Assembly Instructions).*
+4. Upewnij się, że zabudowana strona klipu (z popkrywką) jest skierowana w stronę klamerki. Umożliwi to poprawne zamocowanie drążka i utrzymanie odpowiedniego ucisku.
 
-1(a). Sew the Hook and Loop belt to the 4cm external strapping down both long sides leaving both short ends open. This creates a tube in which the internal belt can be inserted into.
+# Dodatkowe informacje 
+1) **Alternatywna metoda umieszczania paska wewnętrznego w opasce**
+<p>
+*Alternatywna metoda umieszczania paska wewnętrznego w opasce (zamiast kroków 4., 5., 6. i 7. w instrukcji montażu opaski uciskowej.*
+
+1(a). Przyszyj wzdłóż dłuższej krawędzi taśmę rzepową uszytą z kawałków "haczyka" i "pętelki" do taśmy rypsowej o szerokości 3,8cm pozostawiając oba końce paska otwarte, tak by dało się przez nie przeciągnąć pasek wewnętrzny.
 
 |![Fig26](../assets/instructions/fig26.jpg)|![Fig27](../assets/instructions/fig27.jpg)|
 |:--------------------------------------|:-------------------------|
 
-1(b). Secure one end of the internal belt to one end of a rod that is the same length (or longer) than the internal belt.
+1(b). Zamocuj jeden koniec paska wewnętrznego do końca wąskiego kijka, o takiej samej lub większej długości od paska wewnętrznego.
 
 |![Fig28](../assets/instructions/fig28.jpg)|
 |:-------------------------|
-1(c). Insert that end into the external belt all the way until it comes out the other end. Then take the rod out leaving the internal belt inside the external belt.
+1(c). Wsuń koniec kijka z zamocowanym paskiem wewnętrznym do paska zewnętrznego przez całą jego długość, aż pokaże się z drugiej strony, następnie odczep od kijka pasek wewnętrzny i wyciągnij kijek z paska zewnętrznego, pozostawiając pasek wewnętrzny w środku.
 
 |![Fig29](../assets/instructions/fig29.jpg)|![Fig30](../assets/instructions/fig30.jpg)|
 |:--------------------------------------|:-------------------------|
 
-1(d). Sew across the internal and external belts with a straight stitch 3 cm from the end with the small Loop piece, anchoring the internal belt between both sides of the external belt, as in step #5 of the Tourniquet Assembly Instructions.
+1(d). Wykonaj ścieg prostopadle do dłuższej krawędzi paska przez wszystkie jego warstwy w odległości 3cm od końca kawałka 6cm "pętelki", zaczepiając tym samym pasek wewnętrzny pomiędzy warstwami rzepa i taśmy rypsowej, jak w punkcie 5. instrukcji montażu opaski uciskowej.
 
-1(e). Continue with step #6 of the instructions, sewing a box stitch 5 cm from end (2 cm from straight stitch across belts), then cut end round and sew around the cut edge. Carefully burn off frayed edge of belt.
+1(e). Kontynuuj od kroku 6. instrukcji, wykonując prostokątny ścieg z iksem w odległości 5 cm od końca paska (2cm od właśnie wykonanego ściegu prostopadłego). Następnie przytnij krawędź na okrągło i ostrożnie przypal odstające nitki zapalniczką.
 
-1(f). Skip step #7, and continue on with step #8 of the Tourniquet Assembly	Instructions.
+1(f). Pomiń krok 7. i kontynuuj od kroku 8. instrukcji montażu opaski uciskowej.
 
