@@ -17,7 +17,7 @@ UWAGI:
 
 1. Dla ścisłości instrukcji wyjaśniamy, że taśma rzepowa składa się z dwóch części. Sztywną i szorstką nazywamy "haczykiem", a miękką i pokrytą meszkiem nazywamy "pętelką". Rozróżnienie to jest bardzo ważne do prawidłowego przycięcia długości pasków.
 2. Wahania szerokości pasków o 1-2mm nie mają znaczenia jeśli tylko paski zewnętrzne (rzepowy i rypsowy) nie mają większej szerokości niż 4cm i pasek wewnętrzny nie większą szerokość niż 25mm.
-3. W instrukcji posługujemy się następującym nazewnictwem odnośnie części opaski wydrukowanych w technologii 3D: drążek (oryg. windlass), płytka (oryg. backplate, zaczep (oryg. clip) i klamerka (oryg. buckle).  
+3. W instrukcji posługujemy się następującym nazewnictwem odnośnie części opaski wydrukowanych w technologii 3D: drążek (oryg. windlass), płytka (oryg. backplate), zaczep (oryg. clip) i klamerka (oryg. buckle).  
 
 
 # Instrukcja montażu
@@ -149,14 +149,14 @@ UWAGI:
 
 3. Nity kaletnicze powinny przechodzić jedynie przez pasek zewnętrzny. Upewnij się, że nity nie przechodzą przez pasek wewnętrzny ani go nie przyszczypują.
   
-4. Upewnij się, że zabudowana strona zaczepu (z popkrywką) jest skierowana w stronę klamerki. Umożliwi to poprawne zamocowanie drążka i utrzymanie odpowiedniego ucisku.
+4. Upewnij się, że zabudowana strona zaczepu (z pokrywką) jest skierowana w stronę klamerki. Umożliwi to poprawne zamocowanie drążka i utrzymanie odpowiedniego ucisku.
 
 # Dodatkowe informacje 
 1) **Alternatywna metoda umieszczania paska wewnętrznego w opasce**
 <p>
 *Alternatywna metoda umieszczania paska wewnętrznego w opasce (zamiast kroków 4., 5., 6. i 7. w instrukcji montażu opaski uciskowej.*
 
-1(a). Przyszyj wzdłóż dłuższej krawędzi taśmę rzepową uszytą z kawałków "haczyka" i "pętelki" do taśmy rypsowej o szerokości 3,8cm pozostawiając oba końce paska otwarte, tak by dało się przez nie przeciągnąć pasek wewnętrzny.
+1(a). Przyszyj wzdłuż dłuższej krawędzi taśmę rzepową uszytą z kawałków "haczyka" i "pętelki" do taśmy rypsowej o szerokości 3,8cm pozostawiając oba końce paska otwarte, tak by dało się przez nie przeciągnąć pasek wewnętrzny.
 
 |![Fig26](../assets/instructions/fig26.jpg)|![Fig27](../assets/instructions/fig27.jpg)|
 |:--------------------------------------|:-------------------------|
