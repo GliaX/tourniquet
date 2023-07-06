@@ -17,6 +17,7 @@ UWAGI:
 
 1. Dla ścisłości instrukcji wyjaśniamy, że taśma rzepowa składa się z dwóch części. Sztywną i szorstką nazywamy "haczykiem", a miękką i pokrytą meszkiem nazywamy "pętelką". Rozróżnienie to jest bardzo ważne do prawidłowego przycięcia długości pasków.
 2. Wahania szerokości pasków o 1-2mm nie mają znaczenia jeśli tylko paski zewnętrzne (rzepowy i rypsowy) nie mają większej szerokości niż 4cm i pasek wewnętrzny nie większą szerokość niż 25mm.
+3. W instrukcji posługujemy się następującym nazewnictwem odnośnie części opaski wydrukowanych w technologii 3D: drążek (oryg. windlass), płytka (oryg. backplate, zaczep (oryg. clip) i klamerka (oryg. buckle).  
 
 
 # Instrukcja montażu
@@ -44,13 +45,13 @@ UWAGI:
 |![Fig2](../assets/instructions/fig2.png)|
 |:-------------------------|
 
-3. Zszywaj kawałki kaskadowo, czyli wkładając każdy kolejny kawałek pod spód poprzedniego. Przeszyj ten sam szew kilka razy ściegiem zygzakowym. Kawałki pasków powinny nachodzić na siebie na około 1cm i szew powinien przechodzić przez środek nachodzenia, a nie na krawędzi paska. Ten rodzaj szycia zwiększa wytrzymałość na rozciąganie paska i umożliwia bezproblemowe przeciągnięcie go przez klamerkę. Gotowy pasek rzepowy będzie miał około 76cm długości.
+3. Zszywaj kawałki kaskadowo, czyli wkładając każdy kolejny kawałek pod spód poprzedniego. Przeszyj ten sam szew kilka razy ściegiem zygzakowym. Kawałki pasków powinny nachodzić na siebie na około 1cm i szew powinien przechodzić przez środek tego nachodzenia, a nie na krawędzi paska. Ten rodzaj szycia zwiększa wytrzymałość na rozciąganie paska i umożliwia bezproblemowe przeciągnięcie go przez klamerkę. Gotowy pasek rzepowy będzie miał około 76cm długości.
 
 ![Fig3](../assets/instructions/fig3.png)
 ![Illustration 2](../assets/instructions/illustration2.jpg)
 ![Illustration 3](../assets/instructions/illustration3.jpg)
 
-4. Do właśnie uszytego paska z rzepów przyszyj pasek rypsowy (3,8cm) ściegiem prostym upewniając się uprzednio, że czepliwa strona rzepów skierowana jest na zewnątrz. Na razie zszyj tylko jedną stronę, drugą pozostaw, by pomiędzy paskami umieścić wewnętrzny pasek z wojskowej taśmy poliamidowej. (Alternatywna metoda umieszczania paska wewnętrznego znajduje się w adnotacjach pod instrukcją montażu.)
+4. Do właśnie uszytego paska z rzepów przyszyj pasek rypsowy (3,8cm) ściegiem prostym upewniając się uprzednio, że czepliwa strona rzepów skierowana jest na zewnątrz. Na razie zszyj tylko jedną stronę, drugą pozostaw, by pomiędzy paskami umieścić wewnętrzny pasek z wojskowej taśmy poliamidowej. (Alternatywna metoda umieszczania paska wewnętrznego znajduje się w dodatkowych informacjach pod instrukcją montażu.)
 
 ![Fig4](../assets/instructions/fig4.jpg)
 ![Fig5](../assets/instructions/fig5.jpg)
@@ -63,13 +64,13 @@ UWAGI:
 ![Fig7](../assets/instructions/fig7.png)
 ![Illustration 6](../assets/instructions/illustration6.jpg)
 
-6. Naszyj wzmacniający ścieg w kształcie prostokąta z iksem około 5cm od krawędzi paska (2cm od właśnie przeszytego ściegu w poprzek), następnie przytnij krawędź na okrągło i wykończ zapalniczką ostrożnie przypalając postrzępione nitki.
+6. Naszyj wzmacniający ścieg w kształcie prostokąta z iksem około 5cm od krawędzi paska (2cm od właśnie przeszytego prostopadłego ściegu), następnie przytnij krawędź na okrągło i wykończ zapalniczką ostrożnie przypalając postrzępione nitki.
 
 ![Fig8](../assets/instructions/fig8.png)
 ![Illustration 7](../assets/instructions/illustration7.jpg)
 ![Illustration 8](../assets/instructions/illustration8.jpg)
 
-7. Zaszyj otwartą częśc paska uważając, by w trakcie tej czynności nie przeszyć paska wewnętrznego **Pasek wewnętrzy bezwzględnie musi pozostać ruchomy!**
+7. Zaszyj otwartą częśc paska uważając, by w trakcie tej czynności nie przeszyć paska wewnętrznego. **Pasek wewnętrzy bezwzględnie musi pozostać ruchomy!**
 
 <p align="center">
 <img src="../assets/instructions/fig9.png" width="600" height="700" alt="Fig9">
@@ -81,7 +82,7 @@ UWAGI:
 <img src="../assets/instructions/fig10.jpg" width="600" height="600" alt="Fig10">
 </p>
 
-9. Następnie przełóż zewnętrzny i wewnętrzny pasek przez otwór w płytce, upewniając się, że płytka umiejscowiona jest 15mm pod kawałkiem "haczyka" o długości 15cm (jak na zdjęciu przy punkcie 12. instrukcji)
+9. Następnie przełóż zewnętrzny i wewnętrzny pasek przez otwór w płytce, upewniając się, że płytka umiejscowiona jest 15mm pod kawałkiem "haczyka" o długości 15cm (jak na zdjęciu przy punkcie 12. instrukcji).
 
 <p align="center">
 <img src="../assets/instructions/fig11.jpg" width="600" height="500" alt="Fig11">
@@ -93,7 +94,7 @@ UWAGI:
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
 </p>
 
-11. Wolne końce pasków (wewnętrznego i zewnętrznego) przeciągnij przez otwór wydrukowanej 3D klamerki pozbawiony "ząbków". Obróć opaskę na drugą stronę i przeszyj paski razem w odległości 35mm od mostka płytki **płytka powinna być usytuowana 15mm pod kawałkiem 15cm rzepu "haczyka" (patrz punkt 12. instrukcji)**
+11. Wolne końce pasków (wewnętrznego i zewnętrznego) przeciągnij przez otwór wydrukowanej 3D klamerki pozbawiony "ząbków". Obróć opaskę na drugą stronę i przeszyj paski razem w odległości 35mm od mostka płytki. **Płytka powinna być usytuowana 15mm pod kawałkiem 15cm rzepu "haczyka" (patrz punkt 12. instrukcji)**
 
 |![Fig13](../assets/instructions/fig13.png)|![Fig14](../assets/instructions/fig14.png)|
 |:--------------------------------------|:-------------------------|
@@ -104,25 +105,25 @@ UWAGI:
 |![Fig15](../assets/instructions/fig15.png)|
 |:-------------------------|
 
-13. Przebij dwie dziurki przez sam pasek zewnętrzny **nie naruszaj paska wewnętrznego** w miejscu otworów na płytce. Za pomocą 7mm nitów kaletniczych zamocuj płytkę do paska przez właśnie zrobiony dziurki.
+13. Przebij dwie dziurki przez sam pasek zewnętrzny **(nie naruszaj paska wewnętrznego)** w miejscu otworów na płytce. Za pomocą 7mm nitów kaletniczych zamocuj płytkę do paska przez właśnie zrobione dziurki.
 
 |![Fig16](../assets/instructions/fig16.jpg)|![Fig17](../assets/instructions/fig17.jpg)|
 |:--------------------------------------|:-------------------------|
 
 
-14. Załóż klip na pasek. Klip jest usytuowany w taki sposób, że jego otwarta część zawsze skierowana jest w stronę dłuższego końca paska **a druga strona z pokrywką skierowana jest w stronę klamerki**. Przełóż pasek przez wydrukowany 3D klip w dół otworu 1 (slot1) i w górę otworu 2 (slot2), jak na zdjęciu poniżej. Przeciągnij klip przez całą długość paska aż oprze się o płytkę.
+14. Załóż zaczep na pasek. Zaczep jest usytuowany w taki sposób, że jego otwarta część zawsze skierowana jest w stronę dłuższego końca paska, **a druga strona z pokrywką skierowana jest w stronę klamerki**. Przełóż pasek przez wydrukowany 3D zaczep w dół otworu 1 (slot 1) i w górę otworu 2 (slot 2), jak na zdjęciu poniżej. Przeciągnij klip przez całą długość paska aż oprze się o płytkę.
 
 |![Fig18](../assets/instructions/fig18.png)|![Fig19](../assets/instructions/fig19.png)|
 |:--------------------------------------|:-------------------------|
 
 
-15. Aby uszyć zaczep na drążek, weź pozostałe kawałki węższego rzepa 1,9cm i przyszyj jeden z końców białego niesamoprzylepnego rzepa "pętelki" do punktu na środku samoprzylepnego czarnego rzepa "haczyka" (czepliwa strona obu rzepów musi być skierowana w górę, jak na zdjęciu poniżej).
+15. Aby uszyć mocowanie na drążek, weź pozostałe kawałki węższego rzepa 1,9cm i przyszyj jeden z końców białego niesamoprzylepnego rzepa "pętelki" do punktu na środku samoprzylepnego czarnego rzepa "haczyka" (czepliwa strona obu rzepów musi być skierowana w górę, jak na zdjęciu poniżej).
 
 <p align="center">
 <img src="../assets/instructions/fig20.jpg" width="600" height="700" alt="Fig20">
 </p>
 
-16. Przyklej zaczep do klipu w taki sposób, by czarny rzep "haczyk" oplatał go całkowicie dookoła i zawijał się do spodu. **Użyj cyjanoakrylatu jeśli klip został wydrukowany z ABS i żywicy dwuskładnikowej, jeśli klip został wydrukowany z PETG** Klej należy nałożyć w niewielkiej ilości od spodu pałąka i następnie zawinąć wolne końce rzepu "haczyka". Rzep "pętelka" pozostaje wolny, tak by dało się go swobownie owinąć na pałąku klipa.
+16. Przyklej mocowanie do zaczepu w taki sposób, by czarny rzep "haczyk" oplatał go całkowicie dookoła i zawijał się do spodu. **Użyj cyjanoakrylatu jeśli zaczep został wydrukowany z ABS i żywicy dwuskładnikowej, jeśli zaczep został wydrukowany z PETG** Klej należy nałożyć w niewielkiej ilości od spodu pałąka i następnie zawinąć wolne końce rzepu "haczyka". Rzep "pętelka" pozostaje wolny, tak by dało się go swobownie owinąć na pałąku zaczepu.
 
 |![Fig21](../assets/instructions/fig21.png)|![Fig22](../assets/instructions/fig22.png)|
 |:--------------------------------------|:-------------------------|
@@ -144,11 +145,11 @@ UWAGI:
 # Rozwiązywanie problemów
 1. Jeśli masz problem ze zszywaniem razem pasków rzepa, spróbuj najpierw nakleić kawałki na długi kawałek taśmy maskującej, przeszyć je razem i na końcu usunąć taśmę.
 
-2. Zawsze upewniaj się, że pasek wewnętrzny może poruszać sie swobodnie wewnątrz opaski po zszyciu obu jej końców. Przy obracaniu drążkiem, pasek wewnętrzny powinien się zacieśniać.
+2. Zawsze upewniaj się, że pasek wewnętrzny może poruszać się swobodnie wewnątrz opaski po zszyciu obu jej końców. Przy obracaniu drążkiem, pasek wewnętrzny powinien się zacieśniać.
 
 3. Nity kaletnicze powinny przechodzić jedynie przez pasek zewnętrzny. Upewnij się, że nity nie przechodzą przez pasek wewnętrzny ani go nie przyszczypują.
   
-4. Upewnij się, że zabudowana strona klipu (z popkrywką) jest skierowana w stronę klamerki. Umożliwi to poprawne zamocowanie drążka i utrzymanie odpowiedniego ucisku.
+4. Upewnij się, że zabudowana strona zaczepu (z popkrywką) jest skierowana w stronę klamerki. Umożliwi to poprawne zamocowanie drążka i utrzymanie odpowiedniego ucisku.
 
 # Dodatkowe informacje 
 1) **Alternatywna metoda umieszczania paska wewnętrznego w opasce**
