@@ -38,7 +38,9 @@ Always wear a full face mask with a chemical filter while doing injection moldin
 Wear overall safety suit and protective shoes and gloves in your workshop, keep them clean and aside from your regular clothes. This is due to the possibility of the fumes and microplastics contaminating your attire.
 Always wear ear protecting mufflers when working near an air compressor running. 
 
-**Full Bill of Materials and safety equipment list along with purchase links are available in a Google Spreadsheet [here](https://docs.google.com/spreadsheets/d/1QdxPsisKP4URstnQ1jl8uQBEAy5sUwtlR8eIOhQ_-8g/edit#gid=0).**
+**Full Bill of Materials and safety equipment list along with purchase links are available as .ods and .csv files under the name glia_poland_bill_of_materials in the path tourniquet/injection_molding/desktop_injection**
+
+/desktop_injection/**
 
 # How do I make a mold?
 We are printing our molds in Siraya Tech Ultra White on the Anycubic Photon Mono X 6k. This tutorial assumes you know the basics of resin printing. 
