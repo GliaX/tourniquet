@@ -40,8 +40,6 @@ Always wear ear protecting mufflers when working near an air compressor running.
 
 **Full Bill of Materials and safety equipment list along with purchase links are available as .ods and .csv files under the name glia_poland_bill_of_materials in the path tourniquet/injection_molding/desktop_injection**
 
-/desktop_injection/**
-
 # How do I make a mold?
 We are printing our molds in Siraya Tech Ultra White on the Anycubic Photon Mono X 6k. This tutorial assumes you know the basics of resin printing. 
 ### Safety 
