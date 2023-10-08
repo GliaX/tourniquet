@@ -54,4 +54,4 @@ The "desktop_injection" folder is highly experimental and not deployed yet. We g
 
 
 ## License
-See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as Creative Commons By Attribution ShareAlike if desired.
+See the [LICENSE file](LICENSE) for more details of the GPLv3 license. These files are also available as [Creative Commons By Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) if desired.
