@@ -1,15 +1,15 @@
 # Inner belt tensile strength notes
 
 ## Introduction
-The tensile strength of the belt in a tourniquet is a concern that is frequently overemphasized. Although the material used for the belt must withstand the forces that will be applied when the tourniquet is used these forces are not very large and therefore most commonly available nylon webbing will be more than sufficient.
+The tensile strength of the belt in a tourniquet is a concern that is frequently overemphasized. Although the material used for the belt must withstand the forces that will be applied when the tourniquet is used these forces are well within the maximum strength of most commonly available nylon webbing.
 
 ## Tensile testing different nylon webbing materials
 We tested 4 different samples of 0.75" nylon webbing using a tensile tester. Short lengths of each type of webbing had loops sewn into each end, each sample was loaded into the tensile tester, and force was applied until the sample broke. In every single case what failed was the stitching rather than the strap itself. More specifically, the stitching tore out of the weave of the nylon strap because the stitching was sewn very close to the edge of the straps used for testing. Two of the samples failed too quickly to gather any useful data, but the remaining two samples withstood over 1100 N (~224 lbf) prior to failure. The results are summarized in the table below.
 
 | Sample | Breaking strength (N) | Mode of failure |
 |---|---|---|
-|WUXLY|N/A|Stitching tear-out|
-|MEC|N/A|Stitching tear-out|
+|WUXLY|No data|Stitching tear-out|
+|MEC|No data|Stitching tear-out|
 |Poland|1587|Stitching tear-out|
 |ENNS|1167|Stitching tear-out|
 
