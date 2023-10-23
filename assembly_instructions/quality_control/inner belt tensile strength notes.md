@@ -43,7 +43,7 @@ The table below shows contains all of the available information about the strapp
 *Data obtained from "Q&A" section on website answered by staff. Spec sheet not available.
 
 ## Conclusion
-Testing the tensile strength of the material used for the belt is extremely important to ensure that it is suitable. However, this concern is often given disproportionate weight compared to more likely modes of failure, such as failure of the stitching securing the webbing. Care should be taken to evaluating the thread used, location of the stitching, and the parameters of the stitches themselves.
+Testing the tensile strength of the material used for the belt is extremely important to ensure that it is suitable. However, this concern is often given disproportionate weight compared to more likely modes of failure, such as failure of the stitching securing the webbing. Care should be taken to evaluating the thread used, location of the stitching, and the parameters of the stitches themselves. 
 
 ## References
 
