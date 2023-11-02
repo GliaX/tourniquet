@@ -1,5 +1,5 @@
 # Kontrola jakości Stazy Glia
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](tourniquet quality inspection.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](tourniquet_quality_inspection.md)
 
 Rewizja: **A-PL**
 
