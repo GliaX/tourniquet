@@ -16,7 +16,7 @@ We tested 4 different samples of 0.75" nylon webbing using a tensile tester. Sho
 ## 2nd tensile test
 After conducting the first test we sewed a 2nd set of test samples with the stitching set farther from the end than in the first test. Importantly, the thread used to stitch the strapping material together was not the same material that is used in the tourniquets manufactured by Glia and the thread used changed between the first and second tensile tests. This was deemed acceptable because the purpose of this test was to evaluate the strength of the strapping, not to test the stitching.
 
-In every single case what failed was the stitching rather than the strap itself. More specifically, the stitching snapped as its strength was exceeded but the strap itself remained intact. In each case, the failure occurred after being loaded to well over 600 N (135).
+In every single case what failed was the stitching rather than the strap itself. More specifically, the stitching snapped as its strength was exceeded but the strap itself remained intact. In each case, the failure occurred after being loaded to well over 600 N (135 lb).
 
 | Sample | Breaking strength (N) | Mode of failure |
 |---|---|---|
@@ -26,7 +26,7 @@ In every single case what failed was the stitching rather than the strap itself.
 |ENNS|668|Stitching tear-out|
 
 ## Webbing specifications
-The table below shows contains all of the available information about the strapping used in the test. All values shown are as they are reported from the manufacturer, they are NOT taken from our test results.
+The table below shows contains all of the available information about the strapping used in the test. All values shown are as they are reported from the manufacturer or supplier, they are NOT taken from our test results.
 
 |Parameter|WUXLY|MEC|ENNS|Poland|
 |---|---|---|---|---|
