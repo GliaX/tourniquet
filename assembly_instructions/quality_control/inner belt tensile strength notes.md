@@ -28,19 +28,20 @@ In every single case what failed was the stitching rather than the strap itself.
 ## Webbing specifications
 The table below shows contains all of the available information about the strapping used in the test. All values shown are as they are reported from the manufacturer, they are NOT taken from our test results.
 
-|Parameter|WUXLY|MEC|ENNS|ENNS|Poland|
-|---|---|---|---|---|---|
-|Sample name|WUXLY|MEC|ENNS|ENNS|Poland|
-|Supplier|Wuxly.com|Mec.ca|Enns Textile|Enns Textile|???|
-|Part number|???|0407-056|401-1BK-279|480-112BK-279|???|
-|Width|2cm|19mm|1in|1-1/2in|???|
-|Thickness|1.2mm|???|.91mm|.98mm|???|
-|Composition|70% nylon, 30% Poly|???|70% Nylon, 30% Poly|70% Nylon, 30% Poly|???|
-|Tensile strength|???|Approx 453kg|1265lb|2120lb|???|
-|Denier|???|???|840D|840D|???|
-|Weight|???|63g/m*|16g/y|27.62g/y|???|
+|Parameter|WUXLY|MEC|ENNS|Poland|
+|---|---|---|---|---|
+|Sample name|WUXLY|MEC|ENNS|Poland|
+|Supplier|Wuxly.com|Mec.ca|Enns Textile|pielegnacjaobuwia.pl|
+|Part number|UNK*|0407-056|401-1BK-279|Kacperek 250002_IRR|
+|Width|2 cm|19 mm|1 in|25 mm|
+|Thickness|1.2 mm|UNK|.91 mm|Approx 1.2 mm|
+|Composition|70% nylon, 30% Poly|UNK|70% Nylon, 30% Poly|Polyamide|
+|Tensile strength|UNK|Approx 453 kg|1265 lb|650 kg|
+|Denier|UNK|UNK|840D|UNK|
+|Weight|UNK|63 g/m**|16 g/y|UNK|
 
-*Data obtained from "Q&A" section on website answered by staff. Spec sheet not available.
+*Unknown  
+**Data obtained from "Q&A" section on website answered by staff. Spec sheet not available.
 
 ## Conclusion
 Testing the tensile strength of the material used for the belt is extremely important to ensure that it is suitable. However, this concern is often given disproportionate weight compared to more likely modes of failure, such as failure of the stitching securing the webbing. Care should be taken to evaluating the thread used, location of the stitching, and the parameters of the stitches themselves. 
