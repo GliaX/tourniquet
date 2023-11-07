@@ -50,7 +50,6 @@ Testing the tensile strength of the material used for the belt is extremely impo
 Testing was performed at UWO, [Free Appropriate Sustainability Technology (FAST) Research Group](https://www.appropedia.org/FAST), by Morgan
 
 ## Further Reading
-
 For more information on testing the pressure applied by a tourniquet in order to achieve occlusion:
 https://www.sciencedirect.com/science/article/pii/S2468067223000494
 
