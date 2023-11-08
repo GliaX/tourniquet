@@ -1,4 +1,6 @@
 # Quality inspection of Glia Tourniquets
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](tourniquet_quality_inspection.pl.md)
+
 This document is revision: **A**
 
 ## Revision history
