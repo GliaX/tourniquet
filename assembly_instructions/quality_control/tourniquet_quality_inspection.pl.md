@@ -70,7 +70,7 @@ Odległość między płytką a szczeliną drążka musi wynosić 25mm +/- 2mm.
 |---|---|
 |Pomiar długości|Linijka lub bardziej dokładne urządzenie|
 
-Dystans między mostkiem płytki a szwem, który zaszywa sprzączkę musi być równy 30mm +/- 2mm.
+Dystans między mostkiem płytki a szwem, który zaszywa sprzączkę musi być równy 35mm +/- 2mm.
 
 ![IC-0050A1 measurement between the back plate and the stitching that secures the buckle](./quality_images/IC-0060A1.jpg)
 
