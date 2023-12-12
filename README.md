@@ -12,10 +12,16 @@ Repository manager: Tarek Loubani
 ## Print settings
 Print the 3MF file, modified to your needs. It's not recommended to edit the meshes - do not facet the windlass, do not squish / scale it for easier printing.
 
-* Material: ABS
+Material: ABS
 * Layer Height: 0.2 mm
 * Infill: 100%
 * Bed temperature: 100°C temp at the first layer to avoid warping.
+
+Material: PETG
+* Layer Height: Same as ABS
+* Infill: Same as ABS
+* Bed temperature: 85°C temp at the first layer to avoid warping.
+
 
 ### Settings Per Part:
 * backing_support:
