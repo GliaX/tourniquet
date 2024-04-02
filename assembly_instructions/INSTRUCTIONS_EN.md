@@ -25,8 +25,8 @@ https://github.com/GliaX/tourniquet
 |Black Non-Adhesive Loop 4 cm wide|1|19cm|
 |Polyester Grosgrain Strap 4 cm wide|1|92cm|
 |Nylon Heavy Webbing Strap 2 cm wide|1|95cm|
-|White Adhesive Hook 2 cm wide|1|16cm|
-|Non-Adhesive Loop 2 cm wide|1|17cm|
+|Adhesive Hook 2 cm wide|1|16cm|
+|White Non-Adhesive Loop 2 cm wide|1|17cm|
 ![Illustration 1](../assets/instructions/illustration1.jpg)
 <p>
 <p>
