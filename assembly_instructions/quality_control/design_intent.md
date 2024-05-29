@@ -1,7 +1,7 @@
 # Design intent
 
 ## Plastic selection - do not use PLA
-The preferred material to print the plastic parts from is ABS. If it is not possible to use ABS then PETG is also acceptable. PLA is not an acceptable material because it does not withstand exposure to UV light or exposure to the elements well.
+ABS and PETG are acceptable materials to use to print the plastic parts of the tourniquet. PLA is not an acceptable material because it does not withstand exposure to UV light or exposure to the elements well.
 
 ## Windlass shape
 The windlass must remain cylindrical in shape. This shape does present some inconvenience while printing but this is unavoidable. Support material should be used when printing. Putting a flat face on the windlass will cause the effective diameter of the windlass to not be constant during tightening of the tourniquet. This adds multiple seconds to the time required to apply the tourniquet which is unacceptable.

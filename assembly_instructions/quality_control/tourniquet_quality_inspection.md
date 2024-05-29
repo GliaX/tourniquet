@@ -1,4 +1,6 @@
 # Quality inspection of Glia Tourniquets
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](tourniquet_quality_inspection.pl.md)
+
 This document is revision: **A**
 
 ## Revision history
@@ -67,7 +69,7 @@ The distance between the backing plate and the windlass slot must 25mm +/- 2mm.
 |---|---|
 |Length measurement|Ruler OR more accurate device|
 
-The distance between the bridge of the back plate and stitching that secures the buckle must be 30mm +/- 2mm.
+The distance between the bridge of the back plate and stitching that secures the buckle must be 35mm +/- 2mm.
 
 ![IC-0050A1 measurement between the back plate and the stitching that secures the buckle](./quality_images/IC-0060A1.jpg)
 
