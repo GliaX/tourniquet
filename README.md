@@ -1,7 +1,9 @@
 # EXERCISE CAUTION WITH CLINICAL USE Tourniquet
 [![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
 
-The design of this tourniquet is constantly being improved based on feedback from the field. While we are working very hard to prepare this tourniquet for clinical use, we do not consider it finished. Please do not deploy this unless you are in a crisis situation and know exactly what you are doing. 3D printed tourniquet to stop bleeding, especially related to penetrating injuries.
+The design of this tourniquet is constantly being improved based on feedback from the field. While we are working very hard to prepare this tourniquet for clinical use, we do not consider it finished. Please do not deploy this unless you are in a crisis situation and know exactly what you are doing. 3D printed tourniquet is to stop bleeding, especially related to penetrating injuries.
+
+Please read our [Design Intent document](https://github.com/GliaX/tourniquet/blob/master/assembly_instructions/quality_control/design_intent.md) before creating a pull request with any re-designs!
 
 This tourniquet is in use [in Gaza](https://trklou.medium.com/3d-printed-open-source-tourniquet-rationale-failure-analysis-and-proposed-next-steps-of-the-glia-97e8441b4c5a) and is being produced for [emergency use in Ukraine](https://trklou.medium.com/glias-gaza-tourniquet-is-ready-for-emergency-use-in-ukraine-make-some-if-you-can-ef5f83260b7c).
 
@@ -11,6 +13,8 @@ Repository manager: Tarek Loubani
 
 ## Print settings
 Print the 3MF file, modified to your needs. It's not recommended to edit the meshes - do not facet the windlass, do not squish / scale it for easier printing.
+
+Supports are to be created based on your own printer and support settings. Please reach out if you have any questions.
 
 Material: ABS
 * Layer Height: 0.2 mm
