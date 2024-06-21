@@ -16,6 +16,8 @@ Print the 3MF file, modified to your needs. It's not recommended to edit the mes
 
 Supports are to be created based on your own printer and support settings. Please reach out if you have any questions.
 
+Approximately 46g of material is needed to print a single copy of the 4 necessary parts.
+
 Material: ABS
 * Layer Height: 0.2 mm
 * Infill: 100%
