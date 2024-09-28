@@ -32,4 +32,4 @@ https://trklou.medium.com/3d-printed-tourniquet-day-2-of-gaza-field-trials-ends-
 
 https://trklou.medium.com/reinventing-3d-printed-tourniquets-for-ukraine-is-a-mistake-be2937f0ad65
 
-https://docs.google.com/document/d/1yCLVv-3TCJm70hHFRYc7wYMx09lX8xhLMtMcD9Koxh0/edit
+GLIA SLS Initial Evaluation final.pdf in this repository
