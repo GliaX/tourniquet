@@ -26,6 +26,16 @@ The Tourniquet [QA Chart](tourniquet_QA_Chart.pdf) and [QC Checklist](tourniquet
 The [Tourniquet Measuring Tool](tourniquet_measuring_tool.pdf) can be used when conducting the quality assurance of each manufactured device. This is a simple device printed on paper that can help with the QA process in terms of quickly checking that 3 important measurements are correct:
 
 1. the distance from the rounded end of strap to the closest edge of the box stitch (30mm)
+
+![Box Stitch](MToolBoxStitch.jpg)
+:-
+
 2. the amount of slack on the inner strap (25mm)
+
+![Slack](MToolSlack.jpg)
+:-
+
 3. the distance from the bridge of the backplate to the stitch holding the buckle to the strap (35mm)
 
+![Bridge](MToolBridge.jpg)
+:-
