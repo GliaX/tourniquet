@@ -6,7 +6,7 @@ There are several tools available for Quality Assurance of the manufactured tour
 
 **Backplate Tester**
 
-The [Backplate Tester](TQ backplate tester.STL) has been developed in order to test the backplates as they come off of the 3D printer bed. This is because of breakage that can be common when printing this part. Please see the [Backplate Breakage Report](Backplate_Breakage_Report.pdf), which talks about this issue, and also shows how to use the backplate tester.
+The [Backplate Tester](TQ_backplate_tester.STL) has been developed in order to test the backplates as they come off of the 3D printer bed. This is because of breakage that can be common when printing this part. Please see the [Backplate Breakage Report](Backplate_Breakage_Report.pdf), which talks about this issue, and also shows how to use the backplate tester.
 
 **Strap Spacer**
 
@@ -15,7 +15,7 @@ The [Strap Spacer](strap_spacer.stl) is a tool that can be used in order to ensu
 The material and printing settings do not matter as long as the dimensions of the spacer are accurate.
 This part is a tool, not an integral element of the tourniquet and does not need to meet the rigidity requirements of the windlass, backplate, buckle or clip.
 
-Please see #10 in the [Assembly Instructions](assembly_instructions) for instructions on how to you the strap spacer when manufacturing the tourniquet.
+Please see step #10 in the assembly instructions on how to use the strap spacer when manufacturing the tourniquet.
 
 **QA Chart and Checklist**
 
