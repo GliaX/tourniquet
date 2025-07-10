@@ -58,7 +58,7 @@ See the assembly instruction manuals in the following languages:
 
 ## Tourniquet QA (Quality Assurance) Folder
 In this QA folder, you will find a printable QA chart and checklist. There is also information on design intent, and tensile strength notes. 
-https://github.com/GliaX/tourniquet/tree/master/assembly_instructions/quality_control
+https://github.com/GliaX/tourniquet/tree/master/quality_control
 
 ## Tourniquet staging and folding Instructions
 There are several reasonable techniques for staging a CAT-style tourniquet. At Glia, we use and recommend the following technique, which is in use in Gaza: https://www.youtube.com/watch?v=CSECJQPJmLw
