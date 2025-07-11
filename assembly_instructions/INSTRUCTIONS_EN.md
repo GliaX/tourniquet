@@ -87,6 +87,17 @@ https://github.com/GliaX/tourniquet
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
 </p>
 
+The [Strap Spacer](https://github.com/GliaX/tourniquet/quality_control/strap_spacer.stl), found in the [quality_control](https://github.com/GliaX/tourniquet/quality_control) folder, is a tool that can be used in order to ensure the inner strap has the correct slack needed.
+
+<p align="center">
+<img src="../assets/instructions/fig1_spacer.jpg" width="600" height="700" alt"strap_spacer")
+</p>
+
+Insert the spacer under the inner strap with the slope side of the triangle facing away from the bridge of the backplate.
+The windlass should be placed on top of the backplate, with the windlass hole facing upwards, between the bridge of the backplate and the spacer. 
+
+The spacer should be flat on the outer strap. Pull the inner strap tight with the spacer in place, and this will set the appropriate slack of the inner strap. 
+
 11. Insert the free end of the belts (both internal and external) through the toothless slot of the 3D printed buckle. Fold over and sew both internal and external belts to themselves 35 mm from the bridge of the back plate. **Back plate should be positioned 15mm under the 15cm hook piece (see step 12).**
 
 |![Fig13](../assets/instructions/fig13.png)|![Fig14](../assets/instructions/fig14.png)|

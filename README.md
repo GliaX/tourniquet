@@ -3,7 +3,7 @@
 
 The design of this tourniquet is constantly being improved based on feedback from the field. While we are working very hard to prepare this tourniquet for clinical use, we do not consider it finished. Please do not deploy this unless you are in a crisis situation and know exactly what you are doing. 3D printed tourniquet is to stop bleeding, especially related to penetrating injuries.
 
-Please read our [Design Intent document](https://github.com/GliaX/tourniquet/blob/master/assembly_instructions/quality_control/design_intent.md) before creating a pull request with any re-designs!
+Please read our [Design Intent document](https://github.com/GliaX/tourniquet/blob/master/quality_control/design_intent.md) before creating a pull request with any re-designs!
 
 This tourniquet is in use [in Gaza](https://trklou.medium.com/3d-printed-open-source-tourniquet-rationale-failure-analysis-and-proposed-next-steps-of-the-glia-97e8441b4c5a) and is being produced for [emergency use in Ukraine](https://trklou.medium.com/glias-gaza-tourniquet-is-ready-for-emergency-use-in-ukraine-make-some-if-you-can-ef5f83260b7c).
 
@@ -58,7 +58,7 @@ See the assembly instruction manuals in the following languages:
 
 ## Tourniquet QA (Quality Assurance) Folder
 In this QA folder, you will find a printable QA chart and checklist. There is also information on design intent, and tensile strength notes. 
-https://github.com/GliaX/tourniquet/tree/master/assembly_instructions/quality_control
+https://github.com/GliaX/tourniquet/tree/master/quality_control
 
 ## Tourniquet staging and folding Instructions
 There are several reasonable techniques for staging a CAT-style tourniquet. At Glia, we use and recommend the following technique, which is in use in Gaza: https://www.youtube.com/watch?v=CSECJQPJmLw
