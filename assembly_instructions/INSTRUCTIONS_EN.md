@@ -87,7 +87,7 @@ https://github.com/GliaX/tourniquet
 <img src="../assets/instructions/fig12.png" width="600" height="700" alt="Fig12">
 </p>
 
-The Strap Spacer, found in the quality_control folder, is a tool that can be used in order to ensure the inner strap has the correct slack needed.
+The [Strap Spacer](https://github.com/GliaX/tourniquet/quality_control/strap_spacer.stl), found in the [quality_control](https://github.com/GliaX/tourniquet/quality_control) folder, is a tool that can be used in order to ensure the inner strap has the correct slack needed.
 
 <p align="center">
 <img src="../assets/instructions/fig1_spacer.jpg" width="600" height="700" alt"strap_spacer")
