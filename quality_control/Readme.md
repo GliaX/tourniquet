@@ -4,6 +4,10 @@ Our [Design Intent](design_intent.md) document covers the reason for the specifi
 
 There are several tools available for Quality Assurance of the manufactured tourniquet.
 
+**Material Specs**
+
+Here are the [Material Specs](material_specs.pdf) for non-printed materials needed. These materials were sourced in Canada, so there will be differences based on your location, but please adhere to the quality of these materials as much as possible, especially with the inner strap. Here is the [Inner Strap Tensile Test](inner_strap_tensile_test.pdf) we did to determine the strength of the inner strap needed.
+
 **Backplate Tester**
 
 The [Backplate Tester](TQ_backplate_tester.STL) has been developed in order to test the backplates as they come off of the 3D printer bed. This is because of breakage that can be common when printing this part. Please see the [Backplate Breakage Report](Backplate_Breakage_Report.pdf), which talks about this issue, and also shows how to use the backplate tester.
