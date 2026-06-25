@@ -6,7 +6,7 @@ There are several tools available for Quality Assurance of the manufactured tour
 
 **Material Specs**
 
-Here are the [Material Specs](quality_control/Tourniquet_NonPrint_Material_Specs.pdf) for non-printed materials needed. These materials were sourced in Canada, so there will be differences based on your location, but please adhere to the quality of these materials as much as possible, especially with the inner strap. 
+Here are the [Material Specs](Tourniquet_NonPrint_Material_Specs.pdf) for non-printed materials needed. These materials were sourced in Canada, so there will be differences based on your location, but please adhere to the quality of these materials as much as possible, especially with the inner strap. 
 
 **Backplate Tester**
 
