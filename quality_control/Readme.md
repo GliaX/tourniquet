@@ -14,10 +14,13 @@ The [Backplate Tester](TQ_backplate_tester.STL) has been developed in order to t
 
 **Strength Test for Parts**
 
-Strength test for Buckle [video](buckle strength test.mp4) - insert a strap into both slots and pull apart with hands using maximum strength
-Strength test for Backplate [video](backplate strength test.mp4)- use backplate tester above to bend backplate around the Diameter
-Strength test for Clip [video](clip strength test.mp4)- hold both side of the clip and bend them away from each other
-Strength test for Rod [video](rod strength test.mp4)- push with hands at maximum strength with thumbs on slot and also adjacent to slot
+Strength test for Buckle [video](buckle_strength_test.mp4) - insert a strap into both slots and pull apart with hands using maximum strength
+
+Strength test for Backplate [video](backplate_strength_test.mp4)- use backplate tester above to bend backplate around the Diameter
+
+Strength test for Clip [video](clip_strength_test.mp4)- hold both side of the clip and bend them away from each other
+
+Strength test for Rod [video](rod_strength_test.mp4)- push with hands at maximum strength with thumbs on slot and also adjacent to slot
 
 **Strap Spacer**
 
