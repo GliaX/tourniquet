@@ -12,6 +12,13 @@ Here are the [Material Specs](Tourniquet_NonPrint_Material_Specs.pdf) for non-pr
 
 The [Backplate Tester](TQ_backplate_tester.STL) has been developed in order to test the backplates as they come off of the 3D printer bed. This is because of breakage that can be common when printing this part. Please see the [Backplate Breakage Report](Backplate_Breakage_Report.pdf), which talks about this issue, and also shows how to use the backplate tester.
 
+**Strength Test for Parts**
+
+Strength test for Buckle [video](buckle strength test.mp4) - insert a strap into both slots and pull apart with hands using maximum strength
+Strength test for Backplate [video](backplate strength test.mp4)- use backplate tester above to bend backplate around the Diameter
+Strength test for Clip [video](clip strength test.mp4)- hold both side of the clip and bend them away from each other
+Strength test for Rod [video](rod strength test.mp4)- push with hands at maximum strength with thumbs on slot and also adjacent to slot
+
 **Strap Spacer**
 
 The [Strap Spacer](strap_spacer.stl) is a tool that can be used in order to ensure the inner strap has the correct slack needed when assembling and sewing the tourniquet together.
